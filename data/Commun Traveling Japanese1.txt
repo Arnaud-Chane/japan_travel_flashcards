@@ -1,0 +1,751 @@
+Commun Traveling Japanese :
+
+
+
+Identification
+男_おとこ_Otoko Man
+女_おんな_Onna_Woman
+
+温泉_おんせん_onsen_Hot Spring
+女性専用_じょせいせんよう_joseisenyou_females only
+女性専用車両_じょせいせんようしゃりょう_joseisenyousharyou_car for females only
+
+Adults and Children
+大人_おとな_Otona_Adult
+子供_こども_Kodomo_Child
+
+Size
+小_しょう_Shou_Small
+中_ちゅう_Chuu_Medium
+大_だい_Dai_Big
+
+Directions
+右_みぎ_Migi_Right
+左_ひだり_Hidari_Left
+上_うえ_Ue_Up
+下_した_Shita_Down
+
+Instructional
+押す_おす_Osu_Push
+引く_ひく_Hiku_Pull
+開ける_あける_Akeru_Open
+閉める_しめる_Shimeru_Close
+
+開, can also be used to mean “begin” or “start,” as in 開始_かいし_kaishi).
+
+開始日_かいしび_kaishibi_start date
+
+
+Cautionary 
+止まれ_とまれ_Tomare_Stop
+禁止_きんし_Kinshi_Prohibited, Sens interdit
+注意_ちゅうい_Chuu-i_Caution
+
+行き止まり_いきどまり_iki-domari_dead-end
+禁煙_きんえん_kin-en_no smoking
+
+
+Entering/Exiting
+入り口_いりぐち_Iri-guchi_Entrance
+出口_でぐち_Deh-guchi_Exit
+非常口_ひじょうぐち_Hi-jou-guchi_Emergency Exit
+
+Toilet
+便所_べんじょ_Benjo_Toilet, place to excrete both kinds
+お手洗い_おてあらい_O-teh-arai_Bathroom, wash hands
+化粧室_けしょうしつ_Keshou-shitsu_Powder room
+
+トイレ_トイレ_toire_toilet
+
+
+Eating and Drinking
+準備中_じゅんびちゅう_Jun-bi-chuu_In preparation, not yet open
+営業中_えいぎょうちゅう_Ei-gyou-chuu_Open for business
+お会計_おかいけい_O-kai-kei_Cashier, restaurant bill
+居酒屋_いざかや_Izakaya_Japanese-style bar/pub
+お茶_おちゃ_Ocha_Tea
+酒_さけ_Sake_Alcohol
+喫煙_きつえん_Kitsu-en_Smoking allowed
+禁煙_きんえん_Kin-en_Smoking prohibited
+
+銀行_ぎんこう_gin-kou_Bank, ATM
+たばこ_たばこ_tabako_meaning cigarettes
+
+
+
+
+Need help/guidance
+案内_あんない_an-nai_guidance, showing around, information, notice, notification
+情報_じょうほう_jou-hou_information
+
+
+Medical
+病院_びょういん_Byou-in_Hospital
+緊急_きんきゅう_Kin-kyuu_Emergency
+薬_くすり_Kusuri_Medicine
+薬局_やっきょく_Yakkyoku_Pharmacy
+
+
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
+
+お土産_おみやげ_Omiyage_Souvenir
+ホテル_ホテル_Hoteru_Hotel
+レストラン_レストラン_Resutoran_Restaurant
+
+
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
+
+
+Accommodation
+TODO:
+________ ga kowarete imasu - To highlight a damaged or non-functioning facility
+________ wa arimasen - To highlight a missing item
+
+ベッド_ベッド_Beddo_Bed:
+毛布_もうふ_moufu_Blanket
+ブランケット_ブランケット_Buranketto_Blanket
+天井_てんじょう_Tenjou_Ceiling
+椅子_いす_Isu_Chair
+チェックイン_チェックイン_Chiekkuin_Check In
+チェックアウト_チェックアウト_chiekkuauto_Check Out
+宅配便_たくはいびん_Takuhaibin_Courier
+ドア_ドア_Doa_Door
+寮_りょう_Ryou_Dormitory, Note that this word could also mean hostel.
+フロア_フロア_Furoa_Floor
+冷蔵庫_れいぞうこ_Reizouko_Fridge
+ホステル_ホステル_Hosuteru_Hostel
+
+
+
+
+お湯_おゆ_Oyu_Hot Water
+インターネット_インターネット_Intanetto_Internet
+アイロン_アイロン_Airon_Iron
+旅館_りょかん_Ryokan_Japanese Traditional Inn
+ケトル_ケトル_Ketoru_Kettle
+コインランドリー_コインランドリー_Koin randori_Coin Laundry, Laundromat
+ランドリ_ランドリ_Randori_Laundry Facilities
+ライト_ライト_Raito_Lights
+荷物_にもつ_Nimotsu_Luggage
+手荷物_てにもつ_tenimotsu_Luggage but as smaller items
+電子レンジ_でんしレンジ_Denshi renji_Microwave
+枕_まくら_Makura_Pillow
+浴場_よくじょう_Yokujou_bathing space, refers to the common bathing facility of a hotel
+フロント_フロント_Furonto_Reception
+受付_うけつけ_uketsuke_Reception
+部屋_へや_Heya_Room
+ルームサービス_ルームサービス_Rumu sabisu_Room Service
+シャワー_シャワー_Shiyawa_Shower
+シンク_シンク_Sinku_Sink
+テーブル_テーブル_Teburu_Table
+テレビ_テレビ_Terebi_Television
+布団_ふとん_Futon_Traditional Japanese Bed
+自動販売機_じどうはんばいき_Jidou hanbaiki_Vending Machine
+まど_まど_Mado_Window
+
+
+TODO
+Attractions
+
+テーマパーク_テーマパーク_tema paku_Theme parks
+遊園地_ゆうえんち_yuuenchi_Amusement Park
+美術館_びじゅつかん_bijutsukan_Art Gallery
+Beach: Hamabe_はまべ_浜辺). Note that kaigan_かいがん_海岸) is sometimes translated as “beach” too, but means seaside/coast.
+Bridge: Hashi_はし_橋). When paired with other words, the pronunciation becomes bashi.
+Castle: This is a tricky one. When paired with other Japanese words or names, it is pronounced as jou_じょう_城). By itself, however, the kanji is pronounced as shiro. The character doesn’t change.
+Castle Keep: Tenshukaku_てんしゅかく_天守閣).
+Downtown: Hankagai_はんかがい_繁華街).
+Garden: Niwa_にわ_庭). Note that the names of many famous Japanese gardens use the kanji en_えん_園) instead.
+Market: Shijou_しじょう_市場).
+Mountain: Yama_やま_山).
+Museum: Hakubutsukan_はくぶつかん_博物館).
+Observatory: Tenboudai_てんぼうだい_展望台).
+Pagoda: Tou_とう_塔).
+Palace: Goten_ごてん_御殿).
+Park: Koen_こうえん_公園).
+River: Kawa_かわ_川). When paired with other words, the pronunciation sometimes changes to gawa.
+River Cruise: Kawa kudari_かわくだり_川下り).
+Ruins: Iseki_いせき_遺跡).
+Shopping Street: Shoutengai_しょうてんがい_商店街).
+Shops: Mise_みせ_店)
+Shrine: Jinja_じんしゃ_神社).
+Stadium: Sutajiamu_スタジアム_スタジアム).
+Statue: Zou_ぞう_像)
+Temple: Again, this is a tricky one. By itself, the kanji is pronounced as tera__寺). Paired with other words, it sometimes becomes ji. Other times, the pronunciation changes slightly, becoming dera. For example, yamadera__山寺).
+Tower: Tawa_タワー_タワー). Tawa is used for modern structures, whereas tou refers to historical pagodas.
+Town: Machi_まち_町).
+Valley: Tani_たに_谷).
+
+
+
+Clothing
+
+Belt: Beruto_ベルト_ベルト). This differs from obi_おび_帯), the waist sash used when wearing kimonos.
+Blouse: Burausu_ブラウス_ブラウス).
+Cap/Hat: Boushi_ぼ う し_帽子).
+Coat: Uwagi_うわぎ_上着). This could mean jacket too.
+Dress: Doresu_ドレス_ドレス).
+Shirt: Shatsu_シャツ_シャツ). Tees are t-shatsu.
+Shoes: Kutsu_くつ_靴).
+Shorts: Pantsu_パンツ_パンツ).
+Skirt: Skirto_スカート_スカート).
+Sleeve: Sode_そで_袖). Hansode_はんそで_半袖) and nagasode_ながそで_長袖) are short-sleeve and long-sleeve respectively, while sodenashi_そでなし_袖無し) means sleeveless.
+Socks: Kutsushita_くつした_靴下).
+Sweater: Seta_セーター_セーター).
+Trousers: Trousers_ズボン_ズボン).
+Underwear: Shitagi_したぎ_下着).
+
+
+
+Colors
+
+Black: Kuro_くろ_黒).
+Blue: Aoi_あおい_青い).
+Brown: Chairo_ちゃいろ_茶色).
+Gray: Gure_グレー_グレー).
+Green: Midori_みどり_緑).
+Orange: Orenji_オレンジ_オレンジ).
+Pink: Pinku_ピンク_ピンク).
+Purple: Murasaki_むらさき_紫).
+Red: Aka_あか_赤).
+White: Shiro_しろ_白).
+Yellow: Kiiro_きいろ_黄色).
+
+
+Facilities
+
+Bank: Ginkou_ぎんこう_銀行). An ATM is ediemu_エーティーエム_エーティーエム).
+Embassy: Taishikan_たいしかん_大使館).
+Evacuation Shelter: Hinansho_ひなんじょ_避難所).
+Front Desk: Uketsuke_うけつけ_受付).
+Hospital: Byouin_びょういん_病院).
+Money Exchange: Ryougae_りょうがえ_両替).
+Police Station: Keisatsusho_けいさつしょ_警察署).
+Post Office: yuubinkyoku_ゆうびんきょく_郵便局).
+Tourist Information: kankouannaijo_かんこうあんないじょ_観光案内所).
+
+
+
+Food
+
+Beef: gyuuniku_ぎゅうにく_牛肉). Many restaurants would also use befu_ビーフ_ビーフ), or in the case of Japanese beef, wagyuu_わぎゅう_和牛).
+Breakfast: asagohan_あさごはん_朝ごはん) or choushoku_ちょうしょく_朝食).
+Cake: Keki_ケーキ_ケーキ).
+Chicken: toriniku_とりにく_鶏肉).
+Crab: Kani_カニ_カニ).
+Dessert: Dezato_デザート_デザート).
+Dinner: yuushoku_ゆうしょく_夕食) or bangohan_ばんごはん_晩ご飯).
+Egg: Tamago_たまご_卵).
+Fish: Sakana_さかな_魚).
+Fried: Age …__揚…). Usually, the name of the food ingredient that’s fried follows the kanji.
+Fruits: Kudamono_くだもの_果物).
+Lunch: chuushoku_ちゅうしょく_昼食). Or ranchi_ランチ_ランチ).
+
+無し [なし]__nashi_without, for vegetarians, Niku/Sakana nashi, onegaishimasu
+
+肉 [にく]__niku_Flesh/Meat
+魚 [さかな]__sakana_Fish
+
+豚肉_ぶたにく_butaniku, pork):
+Mutton: Youniku_ようにく_羊肉).
+Pastry/Sweets: Kashi_かし_菓子).
+Rice: Gohan_ごはん_ご飯).
+Snack: Otsumami_おつまみ_おつまみ).
+Soup: Supu_スープ_スープ).
+Steamed: Mushi_むし_蒸し).
+Supper, midnight snack: Yashoku_やしょく_夜食).
+Vegetables: Yasai_やさい_野菜).
+食_しょく_taberu / shoku_Food
+飲み物_のみもの_nomu_a drink, beverage
+
+海老_えび_ebi_shrimp, Prawn
+無添加_むてんか_mutenka, additive-free):
+無 [む]__mu.._free of ___
+塩_しお_shio, salt):
+砂糖_さとう_satou, sugar):
+
+
+
+
+Common Fruits
+
+Apple: Ringo_りんご_りんご).
+Banana: Banana_バナナ_バナナ).
+Grapes: Budou_ブドウ_ブドウ).
+Lemon: Remon_レモン_レモン).
+Melon: Meron_メロン_メロン).
+Orange: Orenji_オレンジ_オレンジ).
+Pear: Nashi_なし_梨).
+Pineapple: Painappuru_パイナップル_パイナップル).
+Watermelon: Suika_すいか_西瓜).
+
+
+
+
+Seafood Popularly Used for Sashimi
+
+Eel: Unagi_うなぎ_鰻).
+Mackerel: Saba_さば_鯖).
+Octopus: Tako_たこ_たこ).
+Pacific Saury, mackerel pike: Sanma_さんま_秋刀魚).
+Roe: Igura_イクラ_イクラ).
+Salmon: Sake_さけ_鮭).
+Scallop: Hotate_ほたて_帆立).
+Sea Bream: Tai_たい_鯛).
+Sea Urchin: Uni_うに_うに).
+Skipjack Tuna/oceanic bonito: Katsuo_かつお_鰹).
+Squid: Ika_いか_いか).
+Surf Clam: Hokkigai_ホッキかい_北寄貝).
+Tuna: Maguro_まぐろ_鮪).
+
+
+
+
+Medicine
+
+Allergy: Arerugi_アレルギー_アレルギー).
+Clinic: Shinryousho_しんりょうしょ_診療所).
+Constipation: Benpi_べんぴ_便秘).
+Cough: Seki_せき_咳).
+Cuts/Injury: Kega_けが_怪我).
+Diarrhea: Geri_げり_下痢). 
+Vomiting is outo_おうと_嘔吐).
+Disinfectant: shoudokuzai_しょうどくざい_消毒剤).
+Drugstore: Dorakkustoa_ドラッグストア_ドラッグストア). Often called yakkyoku_やっきょく_薬局) too.
+Fever: Netsu_ねつ_熱).
+Flu: Kaze_かぜ_風邪).
+Gastric Medication: Igusuri_いぐすり_胃薬).
+Giddiness, dizzy: Kurakura_くらくら_くらくら).
+Headache: zutsuu_ずつう_頭痛).
+Lozenges: Jouzai_じょうざい_錠剤).
+Medical Examination: Shinsatsu_しんさつ_診察).
+Medicine: Kusuri_くすり_薬).
+Painful: Itai_いたい_痛い).
+Painkillers: chintsuuzai_ちんつうざい_鎮痛剤).
+Runny Nose/Mucus: Hanamizu_はなみず_鼻水).
+
+
+
+Parts of the Body
+
+ ________ ga itai - To highlight an area of pain
+
+Chest: Mune_むね_胸).
+Ears: Mimi_みみ_耳).
+Eyes: Me_め_目).
+Feet: Ashimoto_あしもと_足下).
+Hands: Te_て_手).
+Head: Atama_あたま_頭).
+Heart: Shinzou_しんぞう_心臓).
+Legs: Ashi_あし_脚).
+Nose: Hana_はな_鼻).
+Stomach: Onaka_おなか_お腹).
+Throat: Nodo_のど_喉).
+
+
+
+Shopping
+
+________ o sagashite imasu - To request for help when searching for something
+________ ga arimasu ka - Do you have … 
+
+Bakery: panya_パンや_パン屋).
+Big: Ookii_おおきい_大きい).
+“Too big” is ookisugiru_おおきすぎる_大きすぎる). The suffix sugiru itself means “in excess” and could be tagged to other adjectives to denote the same meaning.
+Books:_ほん_本).
+Bookstore: Shoten_しょてん_書店).
+Cheap: Yasui_やすい_安い). The kanji often appears by itself on sales material.
+Expensive: Takai_たかい_高い). “Too expensive” is taka sugiru_たかいすぎる_高いすぎる).
+Cigarettes: Tabaco_タバコ_タバコ).
+Convenience Store: Konbini_コンビニ_コンビニ).
+Department Store: Depato_デパート_デパート).
+Electronic appliances: denshikiki_でんしきき_電子機器).
+Greengrocer: Yaoya_やおや_八百屋).
+Liquor Store: Sakaya_さかや_酒屋).
+Pastry Shop: Yougashiya_ようがしや_洋菓子屋).
+ケーキ屋_ケーキや_kekiya_cake shop, pastry shop
+Shop: Mise_みせ_店).
+Small: Chiisai_ちいさい_小さい).
+“Too small” is chiisasugiru_ちいさいすぎる_小さすぎる).
+Supermarket: Supa_スーパー_スーパー).
+
+
+
+
+Time
+
+Afternoon: Gogo_ごご_午後).
+AM/PM: Gozen_ごぜん_午前)/Gogo_ごご_午後).
+Last Night: Sakuya_さくや_昨夜).
+Midnight: Mayonaka_まよなか_真夜中) or hanya_はんや_半夜).
+Morning: Asa_あさ_朝). Kesa refers to “this morning.”
+Noon: Shougo_しょうご_正午).
+Today: Kyou_きょう_今日).
+Tomorrow: Ashita_あした_明日). News reports, weather forecasts, and transportation services often use asu_あす_あす) instead.
+Tonight: Konban_こんばん_今晩).
+Yesterday: Kinou_きのう_昨日).
+
+
+
+Days of the Week
+
+Monday: Getsuyoubi_げつようび_月曜日).
+Tuesday: Kayoubi_かようび_火曜日).
+Wednesday: Suiyoubi_すいようび_水曜日).
+Thursday: Mokuyoubi_もくようび_木曜日).
+Friday: Kinyoubi_きんようび_金曜日).
+Saturday: Doyoubi_どようび_土曜日).
+Sunday: Nichiyoubi_にちようび_日曜日).
+
+
+
+Transportation
+
+Airplane: Hikouki_ひこうき_飛行機).
+Airport: Kuukou_くうこう_空港).
+Arrival Time: touchakujikan_とうちゃくじかん_到着時間).
+Bus Stop: basunoriba_バスのりば_バス乗り場). Noriba means “stop” or“platform,” and can be tagged to other forms of transportation. For example, takushi noriba__taxi stand).
+Departure Time: shuppatsujikan_しゅっぱつじかん_出発時間).
+到着時間_とうちゃくじかん_touchakujikan_arrival time, time of arrival
+Disruption: Miawasete imasu__見合わせています). This phrase means “out of service,” and could appear in many forms. However, the first two kanji characters will always be present.
+Ferry Terminal: Fueritaminaru_フェリーターミナル_フェリーターミナル).
+Flight: Bin_びん_便).
+Harbor: Minato_みなと_港).
+Ship: Fune_ふね_船).
+Subway: Chikatetsu_ちかてつ_地下鉄).
+Taxi: Takushi_タクシー_タクシー).
+Ticket: Kippu_きっぷ_切符) or chiketto_チケット_チケット) or ken_けん_券). Ken is typically used when paired with other Japanese travel words and phrases. For example, a limited express ticket is called tokkyuuken_とっきゅうけん_特急券).
+Ticket Sales: kippuuriba_きっぷうりば_切符売り場).
+スイカ_スイカ_Suica_Suica
+パスモ_パスモ_PASMO_PASMO
+空港 [くうこう]__Kuukou_Airport
+電車_でんしゃ_Densha_Train
+駅 [えき]__Eki_Station
+案内_あんない_annai_Guidance, information, notice
+情報_じょうほう_Jouhou_Information
+新幹線_しんかんせん_Shinkansen_Bullet train
+バス_バス_bus_bus
+終点_しゅうてん_shuuten_final stop
+
+
+
+
+Travel Necessities
+
+Cellphone: Keitai_けいたい_携帯).
+Charging Terminal: Juudentanshi_じゅうでんたんし_充電端子).
+Clock: Tokei_とけい_時計). The word also means watch.
+Comb: Kushi_くし_櫛).
+Detergent: Senzai_せんざい_洗剤).
+Nail Cutter: Tsumekiri_つめきり_爪切り).
+Power Bank: PawaBanku_パワーバンク_パワーバンク). Could also be referred to as mobairubattori_モバイルバッテリー_モバイルバッテリー).
+Razor: Kamisori_カミソリ_カミソリ).
+Sanitary Napkin: Seirinapukin_せいりナプキン_生理ナプキン).
+Shampoo: Shiyanpu_シャンプー_シャンプー).
+SIM Card: Directly transliterated as SIM Cardo__SIMカード).
+Soap: Sekken_せっけん_石鹸). Body wash is usually called bodisopu_ボディソープ_ボディソープ).
+Suitcase: Sutsukesu_スーツケース_スーツケース).
+Toothbrush: Haburashi_はブラシ_歯ブラシ).
+Toothpaste: Hamigaki_はみがき_歯磨き).
+Towel: Taoru_タオル_タオル).
+Travel Adaptor: RyokouAdaputa_りょこうアダプター_旅行アダプター).
+
+
+
+
+Weather
+
+Clear: Hare_はれ_晴).
+Cloudy: Kumori_くもり_曇り).
+Fog: Kiri_きり_霧).
+heat wave, fierce heat: mousho_もうしょ_猛署). The word literally means “fierce heat.”
+Rain: Ame_あめ_雨). Goou_ごうう_豪雨) and Ooame_おおあめ_大雨) mean heavy rain.
+Snow: Yuki_ゆき_雪).
+Thunder: Kaminari_かみなり_雷). While there is a separate word for lightning, kaminari is frequently used to denote both lightning and thunder.
+Typhoon: Taifuu_たいふう_台風).
+Wind: Kaze_かぜ_風). boufuu_ぼうふう_暴風) is a windstorm.
+
+
+
+
+Common Greetings, Questions, and Responses
+
+Good Morning: ohayou_おはよう_お早う
+Good Day/Afternoon: konnichiha_こんにちは_今日は
+Good Evening: Kombanwa_こんばんは_今晩は
+Good Night: oyasuminasai_おやすみなさい_お休みなさい
+Goodbye: Sayounara_さようなら_左様なら
+Excuse Me: Sumimasen_すみません_済みません
+Thank You: Arigatou_ありがとう_有難う
+Sorry: Gomenasai_ごめんなさい_御免なさい
+Do you speak English: Eigo ga hanasemasu ka?_えいごがはなせますか_英語が話せますか?
+I do not understand Japanese: Nihongo ga wakarimasen_にほんごがわかりません_日本語が分かりません
+I’m okay: Daijoubu desu_だいじょうぶです_大丈夫です
+
+
+Emergencies
+
+Help: Tasukete_たすけて_助けて
+Please call an ambulance: kyuukyuusha wo yonde kudasai_きゅうきゅうしゃをよんでください_救急車を呼んで下さい
+Please call the police: Keisatsu wo yonde kudasai_けいさつをよんでください_警察を呼んで下さい
+
+
+TODO
+Numbers
+
+One: Ichi_いち_一
+Two: Ni_に_二
+Three: San_さん_三
+Four: Shi/Yon_し_四
+Five: Go_ご_五
+Six: Roku_ろく_六
+Seven: Shichi/Nana_しち_七
+Eight: Hachi_はち_八
+Nine: Kyuu/Ku_きゅう_九
+Ten: Juu__十
+Eleven: Juu Ichi
+Twelve: Juu Ni
+Twenty: Ni juu
+Thirty: San juu
+Hundred: Hyaku
+Thousand: Sen
+Ten Thousand: Man
+
+
+
+The Seasons
+
+Spring: Haru
+Summer: Natsu
+Autumn: Aki
+Winter: Fuyu
+
+
+
+The 5W and 1H
+
+何 What: Nani
+何時 When: Itsu
+何処 Where: Doko
+誰 Who: Dare/Donata
+何故 Why: Naze
+如何して  [ど う し て] Douyatte [どうやって] How:  
+
+
+
+危ない__abunai_Danger, Attention
+
+
+
+Culture
+
+和__wa, Japanese):
+This kanji means that it's Japanese style or from Japan. For example, in restaurants, you'll see this next to some beef, showing that this beef is produced somewhere in the country.
+
+洋__yo, Western):
+Alternatively, this kanji means it's Western style: clothing, food, anything that is generally considered Western-influenced.
+
+館__kan, building):
+You'll see this at the end of certain tourist-friendly buildings, like museums and community centers.
+
+
+______を ください__〜wo kudasai)— Please give me 〜. or [〜], please.
+
+何名様ですか__nan mei sama desuka) — How many__people)?
+ご注文はお決まりですか__go chuumon wa okimari desu ka?) — Are you ready to order?
+ごちそうさまでし__gochisousama-deshita) —__used after meals) “It was delicious.” or “Thanks for the meal!”
+お勘定をお願いします__okanjou wo onegaishimasu) — Equivalent to “Can I have the bill, please?”__at the restaurant)
+いくらですか__ikura desuka) — How much is it?
+袋大丈夫です__fukuro daijoubu desu) — When you go eco-friendly and say no to plastic bags, you can always use this phrase. It means you don’t need a bag.
+
+
+Omakase de__お任せで_Used to order chef’s recommendation__often for sushi)
+
+Kinen Seki__禁煙席_Non-smoking seat
+Ima Nanji Desu ka?__今何時ですか_What time is it now?
+Nanji ni?__何時に？_At what time?
+__ ni Ikitai____に行きたい_I want to go to __
+Tomete Kudasai__止めてください_Stop, please
+Kippu__切符_Ticket
+Dono Densha?__どの電車？_Which train?
+
+Japanese sake - Nihonshu__日本酒) 
+
+I'll take it - Sore o moraimasu__それをもらいます)  - それを貰います
+
+どう致しまして [どういたしまして]__douishimashite_You’re welcome 
+
+
+日本語を話しません - I don’t speak Japanese — nihongo o hanashimasen
+英語を話しますか？ - Do you speak English? — eigo o hanashimasu ka? 
+すみません、もう一度言ってください__Sumimasen, mou ichido itte kudasai_Excuse me, could you please say that again?
+
+ゆっくり話してください - Can you please speak slowly? — yukkuri hanashite kudasai
+これはいくらですか？ - How much does this cost? — kore wa ikura desu ka? 
+助けてもらえますか？ - Can you please help me? — tasukete moraemasuka?
+
+ようこそ、お入りください - Welcome, please come in — yokoso, o-hairi kudasai
+
+
+Please show your ticket — chiketto o misete kudasai
+チケットを見せてください 
+24. Please show your passport — pasupooto o misete kudasai
+パスポートを見せてください 
+25. What is your reservation name? — yoyaku-mei wa nan desu ka?
+予約名は何ですか？ 
+26. The flight is delayed — furaito chien shiteimasu
+フライト遅延しています 
+27. The flight has been canceled — furaito kyanseru saremashita
+フライトキャンセルされました 
+28. Baggage claim is this way — baggeji kureimu wa kochira desu
+バッゲージクレームはこちらです 
+29. We have arrived at … Airport — … kuko ni tochaku shimashita
+… 空港に到着しました 
+30. We will depart for … Airport — … kuko e shuppatsu shimasu
+… 空港へ出発します 
+31. There is a delay in the flight — furaito ni okure ga arimasu
+フライトに遅れがあります 
+32. There are restrictions on carry-on baggage — kinai mochikomi no nimotsu niwa seigen ga arimasu
+機内持ち込みの荷物には制限があります
+
+Is this a departure flight? — korewa shuppatsu-bin desu ka?
+これは出発便ですか？ 
+35. Is this an arrival flight? — korewa tochaku-bin desu ka?
+これは到着便ですか？ 
+36. Where is the boarding gate? — tojyo-guchi wa doko desu ka?
+搭乗口はどこですか？ 
+37. I’ll check my baggage — tenimotsu azukemasu
+手荷物預けます 
+38. Please call a taxi — takushii o yonde kudasai
+タクシーを呼んでください 
+39. I’d like to rent a car — rentakaa o karitai desu
+レンタカーを借りたいです 
+40. Where is the gate for the connecting flight? — noritsugi-bin no geeto wa doko desu ka?
+乗り継ぎ便のゲートはどこですか？ 
+
+I want to go…__here) —__koko) ni ikitai desu __ここ) に行きたいです
+ 新宿駅に行きたいです    — Shinjuku eki ni ikitai desu.__I want to go to Shinjuku station.)
+
+Can you please show me where we are on the map? — watashitachi ga doko ni iru no ka, chizu de oshiete kudasai
+私達がどこにいるのか、地図で教えてください 
+
+Is it near? — chikai desu ka?
+近いですか？ 
+45. Is it far? — tooi desu ka?
+遠いですか？
+
+Go straight ahead — massugu itte kudasai 
+まっすぐ行ってください 
+47. Turn left — hidari ni magatte kudasai
+左に曲がってください 
+48. Turn right — migi ni magatte kudasai
+右に曲がってください 
+
+What is the fare? — ryoukin wa ikura desu ka?
+料金はいくらですか？
+
+Does this bus go to__street name)? — kono basu wa … ni ikimasu ka?
+このバスは … に行きますか？
+
+Is there Wi-Fi in the hotel? — hoteru ni wa wai-fai ga arimasu ka?
+ホテルにはワイファイがありますか？
+
+
+
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
+
+Word to translate :
+
+パスポート - Passport
+CNI
+財布 - Purse
+鞄 [か ば ん]__kaban_Sac à dos
+旅行かばん [りょ こ う か ば ん]__ryokoukaban_Traveling bag suitcase
+電話 [で ん わ]__denwa_Phone
+充電器 [じゅ う で ん き]__juudenki_Chargeur
+Poste
+交番__kouban_Police station
+靴__Kutsu_Shoes
+帽子__Boushi_hat
+傘__kasa_Umbrella
+時計__tokei_watch
+眼鏡__megane_Eyeglasses
+スーパー - Supermarket
+
+Ma femme wife 妻（Tsuma）- My Wife
+lost
+帰る__kaeru_Go back to
+attendre quelqu'un
+返済__hensai_Refund
+Visa
+
+薬 []__kusuri_Medecine, pharmaceuticals
+
+
+
+
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
+
+
+
+This way, please — Kochira e douzo
+こちらへどうぞ 
+
+Certainly__in response to your order) — Kashikomarimashita
+かしこまりました
+
+Thank you for waiting — Omatase itashimashita
+お待たせいたしました
+
+A table for two, please —  futari you no teeburu o onegai shimasu
+二人 用のテーブルをお願いします 
+
+one — hitori__一人)
+three — sannin__ 三人  )
+four — yonin__ 四人  )
+
+
+私は肉を食べません  — watashi wa niku o tabemasen - I don’t eat meat
+
+
+
+We'll hear those :
+
+Are you looking for something? — nani ka osagashi desu ka?
+何かお探しですか？ 
+111. Is that all? — ijyou de yoroshii desu ka?
+以上でよろしいですか？ 
+112. Here it is / Here you go — hai, douzo
+はい、どうぞ 
+
+-- End
+
+
+115. I would like to pay in cash  — genkin de onegai shimasu
+現金でお願いします 
+116. I would like to pay by credit card — kurejitto kaado de onegai shimasu
+クレジットカードでお願いします 
+
+Kurejittokādo wa tsukaemasu ka?__クレジットカードは使えますか_Do you accept credit cards?
+
+
+つ counters are pronounced 一つ __hitotsu)、 二つ __futatsu)、 三つ __mittsu) and 四つ __yottsu).
+
+Basu noriba__バスのりば_Bus stop
+
+Katamichi kippu__片道切符)/ Kaeri no kippu__帰りの切符_One-way ticket/ return ticket
+
+これを注文します__Kore wo chuumon shimasu_I’ll have this one, please.
+
+
+予約をしています__Yoyaku wo shiteimasu_I have a reservation.
+
+このサイズがありますか__Kono saizu ga arimasu ka?_Do you have this in my size?
+
+
+すみません、見てもいいですか__Sumimasen, mite mo ii desu ka?_Excuse me, may I have a look at this?
+

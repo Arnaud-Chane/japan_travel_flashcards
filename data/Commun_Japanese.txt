@@ -1,0 +1,415 @@
+
+
+Transportation
+
+Airplane: Hikouki_ひこうき_飛行機).
+Airport: Kuukou_くうこう_空港).
+Arrival Time: touchakujikan_とうちゃくじかん_到着時間).
+Bus Stop: basunoriba_バスのりば_バス乗り場). Noriba means “stop” or“platform,” and can be tagged to other forms of transportation. For example, takushi noriba__taxi stand).
+Departure Time: shuppatsujikan_しゅっぱつじかん_出発時間).
+到着時間_とうちゃくじかん_touchakujikan_arrival time, time of arrival
+Disruption: Miawasete imasu__見合わせています). This phrase means “out of service,” and could appear in many forms. However, the first two kanji characters will always be present.
+Ferry Terminal: Fueritaminaru_フェリーターミナル_フェリーターミナル).
+Flight: Bin_びん_便).
+Harbor: Minato_みなと_港).
+Ship: Fune_ふね_船).
+Subway: Chikatetsu_ちかてつ_地下鉄).
+
+
+
+
+
+
+Taxi: Takushi_タクシー_タクシー).
+Ticket: Kippu_きっぷ_切符) or chiketto_チケット_チケット) or ken_けん_券). Ken is typically used when paired with other Japanese travel words and phrases. For example, a limited express ticket is called tokkyuuken_とっきゅうけん_特急券).
+Ticket Sales: kippuuriba_きっぷうりば_切符売り場).
+スイカ_スイカ_Suica_Suica
+パスモ_パスモ_PASMO_PASMO
+空港 [くうこう]__Kuukou_Airport
+電車_でんしゃ_Densha_Train
+駅 [えき]__Eki_Station
+案内_あんない_annai_Guidance, information, notice
+情報_じょうほう_Jouhou_Information
+新幹線_しんかんせん_Shinkansen_Bullet train
+バス_バス_bus_bus
+終点_しゅうてん_shuuten_final stop
+
+
+
+
+Travel Necessities
+
+Cellphone: Keitai_けいたい_携帯).
+Charging Terminal: Juudentanshi_じゅうでんたんし_充電端子).
+Clock: Tokei_とけい_時計). The word also means watch.
+Comb: Kushi_くし_櫛).
+Detergent: Senzai_せんざい_洗剤).
+Nail Cutter: Tsumekiri_つめきり_爪切り).
+Power Bank: PawaBanku_パワーバンク_パワーバンク). Could also be referred to as mobairubattori_モバイルバッテリー_モバイルバッテリー).
+Razor: Kamisori_カミソリ_カミソリ).
+Sanitary Napkin: Seirinapukin_せいりナプキン_生理ナプキン).
+Shampoo: Shiyanpu_シャンプー_シャンプー).
+SIM Card: Directly transliterated as SIM Cardo__SIMカード).
+Soap: Sekken_せっけん_石鹸). Body wash is usually called bodisopu_ボディソープ_ボディソープ).
+Suitcase: Sutsukesu_スーツケース_スーツケース).
+Toothbrush: Haburashi_はブラシ_歯ブラシ).
+Toothpaste: Hamigaki_はみがき_歯磨き).
+Towel: Taoru_タオル_タオル).
+Travel Adaptor: RyokouAdaputa_りょこうアダプター_旅行アダプター).
+
+
+
+
+Weather
+
+Clear: Hare_はれ_晴).
+Cloudy: Kumori_くもり_曇り).
+Fog: Kiri_きり_霧).
+heat wave, fierce heat: mousho_もうしょ_猛署). The word literally means “fierce heat.”
+Rain: Ame_あめ_雨). Goou_ごうう_豪雨) and Ooame_おおあめ_大雨) mean heavy rain.
+Snow: Yuki_ゆき_雪).
+Thunder: Kaminari_かみなり_雷). While there is a separate word for lightning, kaminari is frequently used to denote both lightning and thunder.
+Typhoon: Taifuu_たいふう_台風).
+Wind: Kaze_かぜ_風). boufuu_ぼうふう_暴風) is a windstorm.
+
+
+
+
+Common Greetings, Questions, and Responses
+
+Good Morning: ohayou_おはよう_お早う
+Good Day/Afternoon: konnichiha_こんにちは_今日は
+Good Evening: Kombanwa_こんばんは_今晩は
+Good Night: oyasuminasai_おやすみなさい_お休みなさい
+Goodbye: Sayounara_さようなら_左様なら
+Excuse Me: Sumimasen_すみません_済みません
+Thank You: Arigatou_ありがとう_有難う
+Sorry: Gomenasai_ごめんなさい_御免なさい
+Do you speak English: Eigo ga hanasemasu ka?_えいごがはなせますか_英語が話せますか?
+I do not understand Japanese: Nihongo ga wakarimasen_にほんごがわかりません_日本語が分かりません
+I’m okay: Daijoubu desu_だいじょうぶです_大丈夫です
+
+
+Emergencies
+
+Help: Tasukete_たすけて_助けて
+Please call an ambulance: kyuukyuusha wo yonde kudasai_きゅうきゅうしゃをよんでください_救急車を呼んで下さい
+Please call the police: Keisatsu wo yonde kudasai_けいさつをよんでください_警察を呼んで下さい
+
+
+Numbers
+
+One: Ichi_いち_一
+Two: Ni_に_二
+Three: San_さん_三
+Four: Shi/Yon_し_四
+Five: Go_ご_五
+Six: Roku_ろく_六
+Seven: Shichi/Nana_しち_七
+Eight: Hachi_はち_八
+Nine: Kyuu/Ku_きゅう_九
+Ten: Juu_じゅう_十
+Eleven: Juu Ichi
+Twelve: Juu Ni
+Twenty: Ni juu
+Thirty: San juu
+Hundred: Hyaku_ひゃく_百
+Thousand: Sen_せん_千
+Ten Thousand: Man_まん_万
+
+
+
+The Seasons
+
+Spring: Haru_はる_春
+Summer: Natsu_なつ_夏
+Autumn: Aki_あき_秋
+Winter: Fuyu_ふゆ_冬
+
+
+
+The 5W and 1H
+
+何_なに_ What: Nani
+何時_いつ_ When: Itsu
+何処_どこ_ Where: Doko
+誰_だれ_ Who: Dare/Donata
+何故_なぜ_ Why: Naze
+如何して  [ど う し て] Douyatte [どうやって] How:  
+
+
+
+危ない_あぶない_abunai_Danger, Attention
+
+
+
+Culture
+
+和_わ_wa, Japanese):
+This kanji means that it's Japanese style or from Japan. For example, in restaurants, you'll see this next to some beef, showing that this beef is produced somewhere in the country.
+
+洋_よう_you, Western):
+Alternatively, this kanji means it's Western style: clothing, food, anything that is generally considered Western-influenced.
+
+館_かん_kan, (large) building):
+You'll see this at the end of certain tourist-friendly buildings, like museums and community centers.
+
+
+______を ください__〜wo kudasai)— Please give me 〜. or [〜], please.
+
+何名様ですか_なんめいさまですか_nan mei sama desuka) — How many__people)?
+ご注文はお決まりですか_ごちゅうもんはおきまりですか_go chuumon wa okimari desu ka?) — Are you ready to order?
+ごちそうさまでし_ごちそうさまでし_gochisousama-deshita) —__used after meals) “It was delicious.” or “Thanks for the meal!”
+お勘定をお願いします_おかんじょうをおねがいします_okanjou wo onegaishimasu) — Equivalent to “Can I have the bill, please?”__at the restaurant)
+いくらですか_いくらですか_ikura desuka) — How much is it?
+袋大丈夫です_ふくろだいじょうぶです_fukuro daijoubu desu) — When you go eco-friendly and say no to plastic bags, you can always use this phrase. It means you don’t need a bag.
+
+
+Omakase de_おまかせで_お任せで_Used to order chef’s recommendation__often for sushi)
+
+Kinen Seki_きんえんせき_禁煙席_Non-smoking seat
+Ima Nanji Desu ka?_いまなんじですか_今何時ですか_What time is it now?
+Nanji ni?_なんじに_何時に？_At what time?
+__ ni Ikitai__にいきたい__に行きたい_I want to go to __
+Tomete Kudasai_とめてください_止めてください_Stop, please
+Kippu_きっぷ_切符_Ticket
+Dono Densha?_どのでんしゃ_どの電車？_Which train?
+
+Japanese sake - Nihonshu_にほんしゅ_日本酒) 
+
+I'll take it - Sore o moraimasu__それをもらいます_それを貰います
+
+どう致しまして [どういたしまして]__douishimashite_You’re welcome 
+
+
+日本語を話しません_にほんごをはなしません_ - I don’t speak Japanese — nihongo o hanashimasen
+英語を話しますか？_えいごをはなしますか_ - Do you speak English? — eigo o hanashimasu ka? 
+すみません、もう一度言ってください_すみませんもういちどいってください_Sumimasen mou ichido itte kudasai_Excuse me, could you please say that again?
+
+ゆっくり話してください_ゆっくりはなしてください_ - Can you please speak slowly? — yukkuri hanashite kudasai
+これはいくらですか？_これはいくらですか_ - How much does this cost? — kore wa ikura desu ka? 
+助けてもらえますか？_たすけてもらえますか_ - Can you please help me? — tasukete moraemasuka?
+
+ようこそ、お入りください_ようこそはいりください_ - Welcome, please come in — yokoso, o-hairi kudasai
+
+
+チケットを見せてください_チケットをみせてください_chiketto o misete kudasai_Please show your ticket
+24. Please show your passport — pasupooto o misete kudasai
+パスポートを見せてください_パスポートをみせてください
+25. What is your reservation name? — yoyaku-mei wa nan desu ka?
+予約名は何ですか？_よやくめいはなんですか
+26. The flight is delayed — furaito chien shiteimasu
+フライト遅延しています_フライトちえんしています
+27. The flight has been canceled — furaito kyanseru saremashita
+フライトキャンセルされました_フライトキャンセルされました
+28. Baggage claim is this way — baggeji kureimu wa kochira desu
+バッゲージクレームはこちらです_バッゲージクレームはこちらです
+29. We have arrived at … Airport — … kuukou ni touchaku shimashita
+… 空港に到着しました_ ... くうこうにとうちゃくしました
+30. We will depart for … Airport — … kuukou e shuppatsu shimasu
+… 空港へ出発します_ ... くうこうへしゅっぱつしました
+31. There is a delay in the flight — furaito ni okure ga arimasu
+フライトに遅れがあります_フライトにおくれがあります
+32. There are restrictions on carry-on baggage — kinaimochikomi no nimotsu niwa seigen ga arimasu
+機内持ち込みの荷物には制限があります_きないもちこみのにもつにはせいげんがあります
+
+Is this a departure flight? — kore wa shuppatsubin desu ka?
+これは出発便ですか？_これはしゅっぱつびんですか
+35. Is this an arrival flight? — korewa touchaku-bin desu ka?
+これは到着便ですか？_これはとうちゃくびんですか
+36. Where is the boarding gate? — toujouguchi wa doko desu ka?
+搭乗口はどこですか？_とうじょうぐちはどこですか
+37. I’ll check my baggage — tenimotsu azukemasu
+手荷物預けます_てにもつあずけます
+38. Please call a taxi — takushii o yonde kudasai
+タクシーを呼んでください _タクシーをよんでください
+39. I’d like to rent a car — rentakaa o karitai desu
+レンタカーを借りたいです _レンタカーをかりたいです
+40. Where is the gate for the connecting flight? — noritsugibin no geeto wa doko desu ka?
+乗り継ぎ便のゲートはどこですか？ _のりつぎびんのゲートはどこですか
+
+I want to go…__here —__koko ni ikitai desu _ここにいきたいです_ここ に行きたいです
+ 新宿駅に行きたいです_しんじゅくえきにいきたいです — Shinjuku eki ni ikitai desu.__I want to go to Shinjuku station.)
+
+Can you please show me where we are on the map? — watashitachi ga doko ni iru no ka, chizu de oshiete kudasai
+私達がどこにいるのか、地図で教えてください _わたしたちがどこにいるのか, ちずでおしえてください
+
+Is it near? — chikai desu ka?
+近いですか？_ちかいですか
+45. Is it far? — tooi desu ka?
+遠いですか？_とおいですか
+
+Go straight ahead — massugu itte kudasai 
+まっすぐ行ってください_まっすぐいってください
+47. Turn left — hidari ni magatte kudasai
+左に曲がってください _ひだりにまがってください
+48. Turn right — migi ni magatte kudasai
+右に曲がってください _みぎにまがってください
+
+What is the fare? — ryoukin wa ikura desu ka?
+料金はいくらですか？_りょうきんはいくらですか
+
+Does this bus go to__street name)? — kono basu wa … ni ikimasu ka?
+このバスは … に行きますか？_このバスは … にいきますか
+
+Is there Wi-Fi in the hotel? — hoteru ni wa wai-fai ga arimasu ka?
+ホテルにはワイファイがありますか？ホテルにはワイファイがありますか
+
+
+
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
+
+Word to translate :
+
+パスポート_パスポート - Passport
+CNI_IDカード_IDカード_idkaado
+財布_さいふ_saifu - Purse
+鞄_かばん_kaban_Sac à dos
+旅行かばん_りょこうかばん_ryokoukaban_Traveling bag suitcase
+電話_でんわ_denwa_Phone
+充電器_じゅうでんき_juudenki_Chargeur
+交番_こうばん_kouban_Police station
+靴_くつ_Kutsu_Shoes
+帽子_ぼうし_Boushi_hat
+傘_かさ_kasa_Umbrella
+時計_とけい_tokei_watch
+眼鏡_めがね_megane_Eyeglasses
+スーパー_スーパー_suupaa Supermarket
+
+Ma femme wife 妻_つま_Tsuma_My Wife
+lost
+帰る_かえる_kaeru_Go back to
+待つ_まつ_attendre quelqu'un
+返済_へんさい_hensai_Refund
+ビザ_ビザ_biza_Visa
+
+薬_くすり_kusuri_Medecine, pharmaceuticals
+
+
+
+
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
+
+
+
+This way, please — Kochira e douzo
+こちらへどうぞ_こちらへどうぞ 
+
+Certainly__in response to your order) — Kashikomarimashita
+かしこまりました_かしこまりました
+
+Thank you for waiting — Omatase itashimashita
+お待たせいたしました_おまたせいたしました
+
+A table for two, please —  futari you no teeburu o onegai shimasu
+二人 用のテーブルをお願いします_ふたりようのテーブルをおねがいします
+
+one — hitori_ひとり_一人)
+three — sannin_さんにん_ 三人  )
+four — yonin_よにん_四人  )
+
+
+私は肉を食べません_わたしはにくをたべません— watashi wa niku o tabemasen - I don’t eat meat
+
+
+
+We'll hear those :
+
+Are you looking for something? — nani ka osagashi desu ka?
+何かお探しですか？ なにかおさがしですか
+111. Is that all? — ijyou de yoroshii desu ka?
+以上でよろしいですか？ いじょうでよろしいですか
+112. Here it is / Here you go — hai, douzo
+はい、どうぞ_はい、どうぞ 
+
+-- End
+
+
+115. I would like to pay in cash  — genkin de onegai shimasu
+現金でお願いします _げんきんでおねがいします
+116. I would like to pay by credit card — kurejitto kaado de onegai shimasu
+クレジットカードでお願いします_クレジットカードでおねがいします
+
+Kurejittokādo wa tsukaemasu ka?_クレジットカードはつかえますか_クレジットカードは使えますか_Do you accept credit cards?
+
+
+つ counters are pronounced 一つ _ひとつ_hitotsu)、 二つ _ふたつ_futatsu)、 三つ _みっつ_mittsu) and 四つ _よっつ_yottsu).
+
+basunoriba_バスのりば_バスのりば_Bus stop
+
+katamichikippu_かたみちきっぷ_片道切符_One-way ticket
+Kaeri no kippu_かえりのきっぷ_帰りの切符_return ticket
+
+これを注文します_これをちゅうもんします_Kore wo chuumon shimasu_I’ll have this one, please.
+
+
+予約をしています_よやくをしています_Yoyaku wo shiteimasu_I have a reservation.
+
+このサイズがありますか_このサイズがありますか_Kono saizu ga arimasu ka?_Do you have this in my size?
+
+
+すみません、見てもいいですか_すみませんみてもいいですか_Sumimasen, mite mo ii desu ka?_Excuse me, may I have a look at this?
+
+
+
+
+
+
+
+Accommodation
+TODO:
+________ ga kowarete imasu - To highlight a damaged or non-functioning facility
+________ wa arimasen - To highlight a missing item
+
+
+Shopping
+
+________ o sagashite imasu - To request for help when searching for something
+________ ga arimasu ka - Do you have … 
+
+
+
+----------------------------------------------------
+
+
+
+
+
+チケットを見せてください_チケットをみせてください_chiketto o misete kudasai_Please show your ticket
+24. Please show your passport — pasupooto o misete kudasai
+パスポートを見せてください_パスポートをみせてください
+25. What is your reservation name? — yoyaku-mei wa nan desu ka?
+予約名は何ですか？_よやくめいはなんですか
+26. The flight is delayed — furaito chien shiteimasu
+フライト遅延しています_フライトちえんしています
+27. The flight has been canceled — furaito kyanseru saremashita
+フライトキャンセルされました_フライトキャンセルされました
+
+28. Baggage claim is this way — baggeji kureimu wa kochira desu
+バッゲージクレームはこちらです_バッゲージクレームはこちらです
+
+29. We have arrived at … Airport — … kuukou ni touchaku shimashita
+… 空港に到着しました_ ... くうこうにとうちゃくしました
+
+30. We will depart for … Airport — … kuukou e shuppatsu shimasu
+… 空港へ出発します_ ... くうこうへしゅっぱつしました
+
+31. There is a delay in the flight — furaito ni okure ga arimasu
+フライトに遅れがあります_フライトにおくれがあります
+
+32. There are restrictions on carry-on baggage — kinaimochikomi no nimotsu niwa seigen ga arimasu
+
+機内持ち込みの荷物には制限があります_きないもちこみのにもつにはせいげんがあります
+
+Convert this data into an object like this :
+{
+  "KanjiList" : [
+  "Kanji" : "夏",
+  "Katakana" : "なつ",
+  "Romaji" : "Natsu"
+  "Translate" : "Summer",
+  ...
+ ]
+}
