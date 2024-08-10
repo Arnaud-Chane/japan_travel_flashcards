@@ -1,322 +1,316 @@
 {
-  "KanjiList": [
+  "kanjilist": [
     {
-      "Kanji": "男",
-      "Katakana": "おとこ",
-      "Romaji": "Otoko",
-      "Translate": "Man"
+      "kanji": "男",
+      "katakana": "おとこ",
+      "romaji": "otoko",
+      "translate": "Man"
     },
     {
-      "Kanji": "女",
-      "Katakana": "おんな",
-      "Romaji": "Onna",
-      "Translate": "Woman"
+      "kanji": "女",
+      "katakana": "おんな",
+      "romaji": "onna",
+      "translate": "Woman"
     },
     {
-      "Kanji": "温泉",
-      "Katakana": "おんせん",
-      "Romaji": "Onsen",
-      "Translate": "Hot Spring"
+      "kanji": "温泉",
+      "katakana": "おんせん",
+      "romaji": "onsen",
+      "translate": "Hot Spring"
     },
     {
-      "Kanji": "女性専用",
-      "Katakana": "じょせいせんよう",
-      "Romaji": "Joseisenyou",
-      "Translate": "females only"
+      "kanji": "女性専用",
+      "katakana": "じょせいせんよう",
+      "romaji": "joseisenyou",
+      "translate": "females only"
     },
     {
-      "Kanji": "女性専用車両",
-      "Katakana": "じょせいせんようしゃりょう",
-      "Romaji": "Joseisenyousharyou",
-      "Translate": "car for females only"
+      "kanji": "女性専用車両",
+      "katakana": "じょせいせんようしゃりょう",
+      "romaji": "joseisenyousharyou",
+      "translate": "car for females only"
     },
     {
-      "Kanji": "大人",
-      "Katakana": "おとな",
-      "Romaji": "Otona",
-      "Translate": "Adult"
+      "kanji": "大人",
+      "katakana": "おとな",
+      "romaji": "otona",
+      "translate": "Adult"
     },
     {
-      "Kanji": "子供",
-      "Katakana": "こども",
-      "Romaji": "Kodomo",
-      "Translate": "Child"
+      "kanji": "子供",
+      "katakana": "こども",
+      "romaji": "kodomo",
+      "translate": "Child"
     },
     {
-      "Kanji": "小",
-      "Katakana": "しょう",
-      "Romaji": "Shou",
-      "Translate": "Small"
+      "kanji": "小",
+      "katakana": "しょう",
+      "romaji": "shou",
+      "translate": "Small"
     },
     {
-      "Kanji": "中",
-      "Katakana": "ちゅう",
-      "Romaji": "Chuu",
-      "Translate": "Medium"
+      "kanji": "中",
+      "katakana": "ちゅう",
+      "romaji": "chuu",
+      "translate": "Medium"
     },
     {
-      "Kanji": "大",
-      "Katakana": "だい",
-      "Romaji": "Dai",
-      "Translate": "Big"
+      "kanji": "大",
+      "katakana": "だい",
+      "romaji": "dai",
+      "translate": "Big"
     },
     {
-      "Kanji": "右",
-      "Katakana": "みぎ",
-      "Romaji": "Migi",
-      "Translate": "Right"
+      "kanji": "右",
+      "katakana": "みぎ",
+      "romaji": "migi",
+      "translate": "Right"
     },
     {
-      "Kanji": "左",
-      "Katakana": "ひだり",
-      "Romaji": "Hidari",
-      "Translate": "Left"
+      "kanji": "左",
+      "katakana": "ひだり",
+      "romaji": "hidari",
+      "translate": "Left"
     },
     {
-      "Kanji": "上",
-      "Katakana": "うえ",
-      "Romaji": "Ue",
-      "Translate": "Up"
+      "kanji": "上",
+      "katakana": "うえ",
+      "romaji": "ue",
+      "translate": "up"
     },
     {
-      "Kanji": "下",
-      "Katakana": "した",
-      "Romaji": "Shita",
-      "Translate": "Down"
+      "kanji": "下",
+      "katakana": "した",
+      "romaji": "shita",
+      "translate": "down"
     },
     {
-      "Kanji": "押す",
-      "Katakana": "おす",
-      "Romaji": "Osu",
-      "Translate": "Push"
+      "kanji": "押す",
+      "katakana": "おす",
+      "romaji": "osu",
+      "translate": "push"
     },
     {
-      "Kanji": "引く",
-      "Katakana": "ひく",
-      "Romaji": "Hiku",
-      "Translate": "Pull"
+      "kanji": "引く",
+      "katakana": "ひく",
+      "romaji": "hiku",
+      "translate": "pull"
     },
     {
-      "Kanji": "開ける",
-      "Katakana": "あける",
-      "Romaji": "Akeru",
-      "Translate": "Open"
+      "kanji": "開ける",
+      "katakana": "あける",
+      "romaji": "akeru",
+      "translate": "open"
     },
     {
-      "Kanji": "閉める",
-      "Katakana": "しめる",
-      "Romaji": "Shimeru",
-      "Translate": "Close"
+      "kanji": "閉める",
+      "katakana": "しめる",
+      "romaji": "shimeru",
+      "translate": "close"
     },
     {
-      "Kanji": "開",
-      "Katakana": "あける",
-      "Romaji": "Akeru",
-      "Translate": "Open, Begin, Start"
+      "kanji": "開",
+      "katakana": "あける",
+      "romaji": "akeru",
+      "translate": "open, begin, start"
     },
     {
-      "Kanji": "開始",
-      "Katakana": "かいし",
-      "Romaji": "Kaishi",
-      "Translate": "Start, Begin"
+      "kanji": "開始",
+      "katakana": "かいし",
+      "romaji": "kaishi",
+      "translate": "start, begin"
     },
     {
-      "Kanji": "開始日",
-      "Katakana": "かいしび",
-      "Romaji": "Kaishibi",
-      "Translate": "Start Date"
+      "kanji": "開始日",
+      "katakana": "かいしび",
+      "romaji": "kaishibi",
+      "translate": "start date"
     },
     {
-      "Kanji": "止まれ",
-      "Katakana": "とまれ",
-      "Romaji": "Tomare",
-      "Translate": "Stop"
+      "kanji": "止まれ",
+      "katakana": "とまれ",
+      "romaji": "tomare",
+      "translate": "stop"
     },
     {
-      "Kanji": "禁止",
-      "Katakana": "きんし",
-      "Romaji": "Kinshi",
-      "Translate": "Prohibited, No Entry"
+      "kanji": "禁止",
+      "katakana": "きんし",
+      "romaji": "kinshi",
+      "translate": "prohibited, no entry"
     },
     {
-      "Kanji": "注意",
-      "Katakana": "ちゅうい",
-      "Romaji": "Chuu-i",
-      "Translate": "Caution"
+      "kanji": "注意",
+      "katakana": "ちゅうい",
+      "romaji": "chuui",
+      "translate": "caution"
     },
     {
-      "Kanji": "行き止まり",
-      "Katakana": "いきどまり",
-      "Romaji": "Iki-domari",
-      "Translate": "Dead-end"
+      "kanji": "行き止まり",
+      "katakana": "いきどまり",
+      "romaji": "ikidomari",
+      "translate": "dead-end"
     },
     {
-      "Kanji": "禁煙",
-      "Katakana": "きんえん",
-      "Romaji": "Kin-en",
-      "Translate": "No Smoking"
+      "kanji": "禁煙",
+      "katakana": "きんえん",
+      "romaji": "kinen",
+      "translate": "no smoking"
     },
     {
-      "Kanji": "入り口",
-      "Katakana": "いりぐち",
-      "Romaji": "Iri-guchi",
-      "Translate": "Entrance"
+      "kanji": "入り口",
+      "katakana": "いりぐち",
+      "romaji": "iriguchi",
+      "translate": "entrance"
     },
     {
-      "Kanji": "出口",
-      "Katakana": "でぐち",
-      "Romaji": "Deh-guchi",
-      "Translate": "Exit"
+      "kanji": "出口",
+      "katakana": "でぐち",
+      "romaji": "deguchi",
+      "translate": "exit"
     },
     {
-      "Kanji": "非常口",
-      "Katakana": "ひじょうぐち",
-      "Romaji": "Hi-jou-guchi",
-      "Translate": "Emergency Exit"
+      "kanji": "非常口",
+      "katakana": "ひじょうぐち",
+      "romaji": "hijouguchi",
+      "translate": "emergency exit"
     },
     {
-      "Kanji": "便所",
-      "Katakana": "べんじょ",
-      "Romaji": "Benjo",
-      "Translate": "Toilet, Restroom"
+      "kanji": "便所",
+      "katakana": "べんじょ",
+      "romaji": "benjo",
+      "translate": "toilet, restroom"
     },
     {
-      "Kanji": "お手洗い",
-      "Katakana": "おてあらい",
-      "Romaji": "O-teh-arai",
-      "Translate": "Bathroom, Wash Hands"
+      "kanji": "便所",
+      "katakana": "べんじょ",
+      "romaji": "benjo",
+      "translate": "toilet, place to excrete both kinds"
     },
     {
-      "Kanji": "便所",
-      "Katakana": "べんじょ",
-      "Romaji": "Benjo",
-      "Translate": "Toilet, place to excrete both kinds"
+      "kanji": "お手洗い",
+      "katakana": "おてあらい",
+      "romaji": "otearai",
+      "translate": "bathroom, wash hands"
     },
     {
-      "Kanji": "お手洗い",
-      "Katakana": "おてあらい",
-      "Romaji": "O-teh-arai",
-      "Translate": "Bathroom, wash hands"
+      "kanji": "化粧室",
+      "katakana": "けしょうしつ",
+      "romaji": "keshoushitsu",
+      "translate": "powder room"
     },
     {
-      "Kanji": "化粧室",
-      "Katakana": "けしょうしつ",
-      "Romaji": "Keshou-shitsu",
-      "Translate": "Powder room"
+      "kanji": "トイレ",
+      "katakana": "トイレ",
+      "romaji": "toire",
+      "translate": "toilet"
     },
     {
-      "Kanji": "トイレ",
-      "Katakana": "トイレ",
-      "Romaji": "Toire",
-      "Translate": "Toilet"
+      "kanji": "準備中",
+      "katakana": "じゅんびちゅう",
+      "romaji": "junbichuu",
+      "translate": "in preparation, not yet open"
     },
     {
-      "Kanji": "準備中",
-      "Katakana": "じゅんびちゅう",
-      "Romaji": "Jun-bi-chuu",
-      "Translate": "In preparation, not yet open"
+      "kanji": "営業中",
+      "katakana": "えいぎょうちゅう",
+      "romaji": "eigyouchuu",
+      "translate": "open for business"
     },
     {
-      "Kanji": "営業中",
-      "Katakana": "えいぎょうちゅう",
-      "Romaji": "Ei-gyou-chuu",
-      "Translate": "Open for business"
+      "kanji": "お会計",
+      "katakana": "おかいけい",
+      "romaji": "okaikai",
+      "translate": "cashier, restaurant bill"
     },
     {
-      "Kanji": "お会計",
-      "Katakana": "おかいけい",
-      "Romaji": "O-kai-kei",
-      "Translate": "Cashier, restaurant bill"
+      "kanji": "居酒屋",
+      "katakana": "いざかや",
+      "romaji": "izakaya",
+      "translate": "japanese-style bar/pub"
     },
     {
-      "Kanji": "居酒屋",
-      "Katakana": "いざかや",
-      "Romaji": "Izakaya",
-      "Translate": "Japanese-style bar/pub"
+      "kanji": "お茶",
+      "katakana": "おちゃ",
+      "romaji": "ocha",
+      "translate": "tea"
     },
     {
-      "Kanji": "お茶",
-      "Katakana": "おちゃ",
-      "Romaji": "Ocha",
-      "Translate": "Tea"
+      "kanji": "酒",
+      "katakana": "さけ",
+      "romaji": "sake",
+      "translate": "alcohol"
     },
     {
-      "Kanji": "酒",
-      "Katakana": "さけ",
-      "Romaji": "Sake",
-      "Translate": "Alcohol"
+      "kanji": "喫煙",
+      "katakana": "きつえん",
+      "romaji": "kitsuen",
+      "translate": "smoking allowed"
     },
     {
-      "Kanji": "喫煙",
-      "Katakana": "きつえん",
-      "Romaji": "Kitsu-en",
-      "Translate": "Smoking allowed"
+      "kanji": "禁煙",
+      "katakana": "きんえん",
+      "romaji": "kinen",
+      "translate": "smoking prohibited"
     },
     {
-      "Kanji": "禁煙",
-      "Katakana": "きんえん",
-      "Romaji": "Kin-en",
-      "Translate": "Smoking prohibited"
+      "kanji": "銀行",
+      "katakana": "ぎんこう",
+      "romaji": "ginkou",
+      "translate": "bank, atm"
     },
     {
-      "Kanji": "銀行",
-      "Katakana": "ぎんこう",
-      "Romaji": "Gin-kou",
-      "Translate": "Bank, ATM"
+      "kanji": "たばこ",
+      "katakana": "たばこ",
+      "romaji": "tabako",
+      "translate": "cigarettes"
     },
     {
-      "Kanji": "たばこ",
-      "Katakana": "たばこ",
-      "Romaji": "Tabako",
-      "Translate": "Cigarettes"
+      "kanji": "案内",
+      "katakana": "あんない",
+      "romaji": "annai",
+      "translate": "guidance, showing around, information, notice, notification"
     },
     {
-      "Kanji": "案内",
-      "Katakana": "あんない",
-      "Romaji": "An-nai",
-      "Translate": "Guidance, showing around, information, notice, notification"
+      "kanji": "情報",
+      "katakana": "じょうほう",
+      "romaji": "jouhou",
+      "translate": "information"
     },
     {
-      "Kanji": "情報",
-      "Katakana": "じょうほう",
-      "Romaji": "Jou-hou",
-      "Translate": "Information"
+      "kanji": "病院",
+      "katakana": "びょういん",
+      "romaji": "byouin",
+      "translate": "hospital"
     },
     {
-      "Kanji": "病院",
-      "Katakana": "びょういん",
-      "Romaji": "Byou-in",
-      "Translate": "Hospital"
+      "kanji": "緊急",
+      "katakana": "きんきゅう",
+      "romaji": "kin-kyuu",
+      "translate": "emergency"
     },
     {
-      "Kanji": "緊急",
-      "Katakana": "きんきゅう",
-      "Romaji": "Kin-kyuu",
-      "Translate": "Emergency"
+      "kanji": "薬",
+      "katakana": "くすり",
+      "romaji": "kusuri",
+      "translate": "medicine"
     },
     {
-      "Kanji": "薬",
-      "Katakana": "くすり",
-      "Romaji": "Kusuri",
-      "Translate": "Medicine"
+      "kanji": "薬局",
+      "katakana": "やっきょく",
+      "romaji": "yakkyoku",
+      "translate": "pharmacy"
     },
     {
-      "Kanji": "薬局",
-      "Katakana": "やっきょく",
-      "Romaji": "Yakkyoku",
-      "Translate": "Pharmacy"
+      "kanji": "お土産",
+      "katakana": "おみやげ",
+      "romaji": "omiyage",
+      "translate": "souvenir"
     },
     {
-      "Kanji": "お土産",
-      "Katakana": "おみやげ",
-      "Romaji": "Omiyage",
-      "Translate": "Souvenir"
-    },
-    {
-      "Kanji": "ホテル",
-      "Katakana": "ホテル",
-      "Romaji": "Hoteru",
-      "Translate": "Hotel"
+      "kanji": "ホテル",
+      "katakana": "ホテル",
+      "romaji": "hoteru",
+      "translate": "hotel"
     },
     {
       "Kanji": "レストラン",
