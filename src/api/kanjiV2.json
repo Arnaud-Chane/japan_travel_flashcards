@@ -1,0 +1,2924 @@
+[
+  {
+    "kanji": "男",
+    "katakana": "おとこ",
+    "romaji": "otoko",
+    "translate": "Man"
+  },
+  {
+    "kanji": "女",
+    "katakana": "おんな",
+    "romaji": "onna",
+    "translate": "Woman"
+  },
+  {
+    "kanji": "温泉",
+    "katakana": "おんせん",
+    "romaji": "onsen",
+    "translate": "Hot Spring"
+  },
+  {
+    "kanji": "女性専用",
+    "katakana": "じょせいせんよう",
+    "romaji": "joseisenyou",
+    "translate": "females only"
+  },
+  {
+    "kanji": "女性専用車両",
+    "katakana": "じょせいせんようしゃりょう",
+    "romaji": "joseisenyousharyou",
+    "translate": "car for females only"
+  },
+  {
+    "kanji": "大人",
+    "katakana": "おとな",
+    "romaji": "otona",
+    "translate": "Adult"
+  },
+  {
+    "kanji": "子供",
+    "katakana": "こども",
+    "romaji": "kodomo",
+    "translate": "Child"
+  },
+  {
+    "kanji": "小",
+    "katakana": "しょう",
+    "romaji": "shou",
+    "translate": "Small"
+  },
+  {
+    "kanji": "中",
+    "katakana": "ちゅう",
+    "romaji": "chuu",
+    "translate": "Medium"
+  },
+  {
+    "kanji": "大",
+    "katakana": "だい",
+    "romaji": "dai",
+    "translate": "Big"
+  },
+  {
+    "kanji": "右",
+    "katakana": "みぎ",
+    "romaji": "migi",
+    "translate": "Right"
+  },
+  {
+    "kanji": "左",
+    "katakana": "ひだり",
+    "romaji": "hidari",
+    "translate": "Left"
+  },
+  {
+    "kanji": "上",
+    "katakana": "うえ",
+    "romaji": "ue",
+    "translate": "up"
+  },
+  {
+    "kanji": "下",
+    "katakana": "した",
+    "romaji": "shita",
+    "translate": "down"
+  },
+  {
+    "kanji": "押す",
+    "katakana": "おす",
+    "romaji": "osu",
+    "translate": "push"
+  },
+  {
+    "kanji": "引く",
+    "katakana": "ひく",
+    "romaji": "hiku",
+    "translate": "pull"
+  },
+  {
+    "kanji": "開ける",
+    "katakana": "あける",
+    "romaji": "akeru",
+    "translate": "open"
+  },
+  {
+    "kanji": "閉める",
+    "katakana": "しめる",
+    "romaji": "shimeru",
+    "translate": "close"
+  },
+  {
+    "kanji": "開",
+    "katakana": "あける",
+    "romaji": "akeru",
+    "translate": "open, begin, start"
+  },
+  {
+    "kanji": "開始",
+    "katakana": "かいし",
+    "romaji": "kaishi",
+    "translate": "start, begin"
+  },
+  {
+    "kanji": "開始日",
+    "katakana": "かいしび",
+    "romaji": "kaishibi",
+    "translate": "start date"
+  },
+  {
+    "kanji": "止まれ",
+    "katakana": "とまれ",
+    "romaji": "tomare",
+    "translate": "stop"
+  },
+  {
+    "kanji": "禁止",
+    "katakana": "きんし",
+    "romaji": "kinshi",
+    "translate": "prohibited, no entry"
+  },
+  {
+    "kanji": "注意",
+    "katakana": "ちゅうい",
+    "romaji": "chuui",
+    "translate": "caution"
+  },
+  {
+    "kanji": "行き止まり",
+    "katakana": "いきどまり",
+    "romaji": "ikidomari",
+    "translate": "dead-end"
+  },
+  {
+    "kanji": "禁煙",
+    "katakana": "きんえん",
+    "romaji": "kinen",
+    "translate": "no smoking"
+  },
+  {
+    "kanji": "入り口",
+    "katakana": "いりぐち",
+    "romaji": "iriguchi",
+    "translate": "entrance"
+  },
+  {
+    "kanji": "出口",
+    "katakana": "でぐち",
+    "romaji": "deguchi",
+    "translate": "exit"
+  },
+  {
+    "kanji": "非常口",
+    "katakana": "ひじょうぐち",
+    "romaji": "hijouguchi",
+    "translate": "emergency exit"
+  },
+  {
+    "kanji": "便所",
+    "katakana": "べんじょ",
+    "romaji": "benjo",
+    "translate": "toilet, restroom"
+  },
+  {
+    "kanji": "便所",
+    "katakana": "べんじょ",
+    "romaji": "benjo",
+    "translate": "toilet, place to excrete both kinds"
+  },
+  {
+    "kanji": "お手洗い",
+    "katakana": "おてあらい",
+    "romaji": "otearai",
+    "translate": "bathroom, wash hands"
+  },
+  {
+    "kanji": "化粧室",
+    "katakana": "けしょうしつ",
+    "romaji": "keshoushitsu",
+    "translate": "powder room"
+  },
+  {
+    "kanji": "トイレ",
+    "katakana": "トイレ",
+    "romaji": "toire",
+    "translate": "toilet"
+  },
+  {
+    "kanji": "準備中",
+    "katakana": "じゅんびちゅう",
+    "romaji": "junbichuu",
+    "translate": "in preparation, not yet open"
+  },
+  {
+    "kanji": "営業中",
+    "katakana": "えいぎょうちゅう",
+    "romaji": "eigyouchuu",
+    "translate": "open for business"
+  },
+  {
+    "kanji": "お会計",
+    "katakana": "おかいけい",
+    "romaji": "okaikai",
+    "translate": "cashier, restaurant bill"
+  },
+  {
+    "kanji": "居酒屋",
+    "katakana": "いざかや",
+    "romaji": "izakaya",
+    "translate": "japanese-style bar/pub"
+  },
+  {
+    "kanji": "お茶",
+    "katakana": "おちゃ",
+    "romaji": "ocha",
+    "translate": "tea"
+  },
+  {
+    "kanji": "酒",
+    "katakana": "さけ",
+    "romaji": "sake",
+    "translate": "alcohol"
+  },
+  {
+    "kanji": "喫煙",
+    "katakana": "きつえん",
+    "romaji": "kitsuen",
+    "translate": "smoking allowed"
+  },
+  {
+    "kanji": "禁煙",
+    "katakana": "きんえん",
+    "romaji": "kinen",
+    "translate": "smoking prohibited"
+  },
+  {
+    "kanji": "銀行",
+    "katakana": "ぎんこう",
+    "romaji": "ginkou",
+    "translate": "bank, atm"
+  },
+  {
+    "kanji": "たばこ",
+    "katakana": "たばこ",
+    "romaji": "tabako",
+    "translate": "cigarettes"
+  },
+  {
+    "kanji": "案内",
+    "katakana": "あんない",
+    "romaji": "annai",
+    "translate": "guidance, showing around, information, notice, notification"
+  },
+  {
+    "kanji": "情報",
+    "katakana": "じょうほう",
+    "romaji": "jouhou",
+    "translate": "information"
+  },
+  {
+    "kanji": "病院",
+    "katakana": "びょういん",
+    "romaji": "byouin",
+    "translate": "hospital"
+  },
+  {
+    "kanji": "緊急",
+    "katakana": "きんきゅう",
+    "romaji": "kinkyuu",
+    "translate": "emergency"
+  },
+  {
+    "kanji": "薬",
+    "katakana": "くすり",
+    "romaji": "kusuri",
+    "translate": "medicine"
+  },
+  {
+    "kanji": "薬局",
+    "katakana": "やっきょく",
+    "romaji": "yakkyoku",
+    "translate": "pharmacy"
+  },
+  {
+    "kanji": "お土産",
+    "katakana": "おみやげ",
+    "romaji": "omiyage",
+    "translate": "souvenir"
+  },
+  {
+    "kanji": "ホテル",
+    "katakana": "ホテル",
+    "romaji": "hoteru",
+    "translate": "hotel"
+  },
+  {
+    "kanji": "レストラン",
+    "katakana": "レストラン",
+    "romaji": "resutoran",
+    "translate": "Restaurant"
+  },
+  {
+    "kanji": "ベッド",
+    "katakana": "ベッド",
+    "romaji": "beddo",
+    "translate": "Bed"
+  },
+  {
+    "kanji": "毛布",
+    "katakana": "もうふ",
+    "romaji": "moufu",
+    "translate": "Blanket"
+  },
+  {
+    "kanji": "ブランケット",
+    "katakana": "ブランケット",
+    "romaji": "buranketto",
+    "translate": "Blanket"
+  },
+  {
+    "kanji": "天井",
+    "katakana": "てんじょう",
+    "romaji": "tenjou",
+    "translate": "Ceiling"
+  },
+  {
+    "kanji": "椅子",
+    "katakana": "いす",
+    "romaji": "isu",
+    "translate": "Chair"
+  },
+  {
+    "kanji": "チェックイン",
+    "katakana": "チェックイン",
+    "romaji": "chiekkuin",
+    "translate": "Check In"
+  },
+  {
+    "kanji": "チェックアウト",
+    "katakana": "チェックアウト",
+    "romaji": "chiekkuauto",
+    "translate": "Check Out"
+  },
+  {
+    "kanji": "宅配便",
+    "katakana": "たくはいびん",
+    "romaji": "takuhaibin",
+    "translate": "Courier"
+  },
+  {
+    "kanji": "ドア",
+    "katakana": "ドア",
+    "romaji": "doa",
+    "translate": "Door"
+  },
+  {
+    "kanji": "寮",
+    "katakana": "りょう",
+    "romaji": "ryou",
+    "translate": "Dormitory, Hostel"
+  },
+  {
+    "kanji": "フロア",
+    "katakana": "フロア",
+    "romaji": "furoa",
+    "translate": "Floor"
+  },
+  {
+    "kanji": "冷蔵庫",
+    "katakana": "れいぞうこ",
+    "romaji": "reizouko",
+    "translate": "Fridge"
+  },
+  {
+    "kanji": "ホステル",
+    "katakana": "ホステル",
+    "romaji": "hosuteru",
+    "translate": "Hostel"
+  },
+  {
+    "kanji": "お湯",
+    "katakana": "おゆ",
+    "romaji": "oyu",
+    "translate": "Hot Water"
+  },
+  {
+    "kanji": "インターネット",
+    "katakana": "インターネット",
+    "romaji": "intanetto",
+    "translate": "Internet"
+  },
+  {
+    "kanji": "アイロン",
+    "katakana": "アイロン",
+    "romaji": "airon",
+    "translate": "Iron"
+  },
+  {
+    "kanji": "旅館",
+    "katakana": "りょかん",
+    "romaji": "ryokan",
+    "translate": "Japanese Traditional Inn"
+  },
+  {
+    "kanji": "ケトル",
+    "katakana": "ケトル",
+    "romaji": "ketoru",
+    "translate": "Kettle"
+  },
+  {
+    "kanji": "コインランドリー",
+    "katakana": "コインランドリー",
+    "romaji": "koinrandori",
+    "translate": "Coin Laundry, Laundromat"
+  },
+  {
+    "kanji": "ランドリ",
+    "katakana": "ランドリ",
+    "romaji": "randori",
+    "translate": "Laundry Facilities"
+  },
+  {
+    "kanji": "ライト",
+    "katakana": "ライト",
+    "romaji": "raito",
+    "translate": "Lights"
+  },
+  {
+    "kanji": "荷物",
+    "katakana": "にもつ",
+    "romaji": "nimotsu",
+    "translate": "Luggage"
+  },
+  {
+    "kanji": "手荷物",
+    "katakana": "てにもつ",
+    "romaji": "tenimotsu",
+    "translate": "Luggage (smaller items)"
+  },
+  {
+    "kanji": "電子レンジ",
+    "katakana": "でんしレンジ",
+    "romaji": "denshirenji",
+    "translate": "Microwave"
+  },
+  {
+    "kanji": "枕",
+    "katakana": "まくら",
+    "romaji": "makura",
+    "translate": "Pillow"
+  },
+  {
+    "kanji": "浴場",
+    "katakana": "よくじょう",
+    "romaji": "yokujou",
+    "translate": "Bathing space"
+  },
+  {
+    "kanji": "フロント",
+    "katakana": "フロント",
+    "romaji": "furonto",
+    "translate": "Reception"
+  },
+  {
+    "kanji": "受付",
+    "katakana": "うけつけ",
+    "romaji": "uketsuke",
+    "translate": "Reception"
+  },
+  {
+    "kanji": "部屋",
+    "katakana": "へや",
+    "romaji": "heya",
+    "translate": "Room"
+  },
+  {
+    "kanji": "ルームサービス",
+    "katakana": "ルームサービス",
+    "romaji": "rumusabisu",
+    "translate": "Room Service"
+  },
+  {
+    "kanji": "シャワー",
+    "katakana": "シャワー",
+    "romaji": "shiyawa",
+    "translate": "Shower"
+  },
+  {
+    "kanji": "シンク",
+    "katakana": "シンク",
+    "romaji": "sinku",
+    "translate": "Sink"
+  },
+  {
+    "kanji": "テーブル",
+    "katakana": "テーブル",
+    "romaji": "teburu",
+    "translate": "Table"
+  },
+  {
+    "kanji": "テレビ",
+    "katakana": "テレビ",
+    "romaji": "terebi",
+    "translate": "Television"
+  },
+  {
+    "kanji": "布団",
+    "katakana": "ふとん",
+    "romaji": "futon",
+    "translate": "Traditional Japanese Bed"
+  },
+  {
+    "kanji": "自動販売機",
+    "katakana": "じどうはんばいき",
+    "romaji": "jidouhanbaiki",
+    "translate": "Vending Machine"
+  },
+  {
+    "kanji": "まど",
+    "katakana": "まど",
+    "romaji": "mado",
+    "translate": "Window"
+  },
+  {
+    "kanji": "テーマパーク",
+    "katakana": "テーマパーク",
+    "romaji": "temapaku",
+    "translate": "Theme parks"
+  },
+  {
+    "kanji": "遊園地",
+    "katakana": "ゆうえんち",
+    "romaji": "yuuenchi",
+    "translate": "Amusement Park"
+  },
+  {
+    "kanji": "美術館",
+    "katakana": "びじゅつかん",
+    "romaji": "bijutsukan",
+    "translate": "Art Gallery"
+  },
+  {
+    "kanji": "浜辺",
+    "katakana": "はまべ",
+    "romaji": "hamabe",
+    "translate": "Beach"
+  },
+  {
+    "kanji": "海岸",
+    "katakana": "かいがん",
+    "romaji": "kaigan",
+    "translate": "Beach, Seaside/Coast"
+  },
+  {
+    "kanji": "橋",
+    "katakana": "はし",
+    "romaji": "hashi",
+    "translate": "Bridge"
+  },
+  {
+    "kanji": "城",
+    "katakana": "じょう",
+    "romaji": "jou",
+    "translate": "Castle"
+  },
+  {
+    "kanji": "天守閣",
+    "katakana": "てんしゅかく",
+    "romaji": "tenshukaku",
+    "translate": "Castle Keep"
+  },
+  {
+    "kanji": "繁華街",
+    "katakana": "はんかがい",
+    "romaji": "hankagai",
+    "translate": "Downtown"
+  },
+  {
+    "kanji": "庭",
+    "katakana": "にわ",
+    "romaji": "niwa",
+    "translate": "Garden"
+  },
+  {
+    "kanji": "園",
+    "katakana": "えん",
+    "romaji": "en",
+    "translate": "Garden"
+  },
+  {
+    "kanji": "市場",
+    "katakana": "しじょう",
+    "romaji": "shijou",
+    "translate": "Market"
+  },
+  {
+    "kanji": "山",
+    "katakana": "やま",
+    "romaji": "yama",
+    "translate": "Mountain"
+  },
+  {
+    "kanji": "博物館",
+    "katakana": "はくぶつかん",
+    "romaji": "hakubutsukan",
+    "translate": "Museum"
+  },
+  {
+    "kanji": "展望台",
+    "katakana": "てんぼうだい",
+    "romaji": "tenboudai",
+    "translate": "Observatory"
+  },
+  {
+    "kanji": "塔",
+    "katakana": "とう",
+    "romaji": "tou",
+    "translate": "Pagoda"
+  },
+  {
+    "kanji": "御殿",
+    "katakana": "ごてん",
+    "romaji": "goten",
+    "translate": "Palace"
+  },
+  {
+    "kanji": "公園",
+    "katakana": "こうえん",
+    "romaji": "koen",
+    "translate": "Park"
+  },
+  {
+    "kanji": "川",
+    "katakana": "かわ",
+    "romaji": "kawa",
+    "translate": "River"
+  },
+  {
+    "kanji": "川下り",
+    "katakana": "かわくだり",
+    "romaji": "kawakudari",
+    "translate": "River Cruise"
+  },
+  {
+    "kanji": "遺跡",
+    "katakana": "いせき",
+    "romaji": "iseki",
+    "translate": "Ruins"
+  },
+  {
+    "kanji": "商店街",
+    "katakana": "しょうてんがい",
+    "romaji": "shoutengai",
+    "translate": "Shopping Street"
+  },
+  {
+    "kanji": "店",
+    "katakana": "みせ",
+    "romaji": "mise",
+    "translate": "Shops"
+  },
+  {
+    "kanji": "神社",
+    "katakana": "じんしゃ",
+    "romaji": "jinja",
+    "translate": "Shrine"
+  },
+  {
+    "kanji": "スタジアム",
+    "katakana": "スタジアム",
+    "romaji": "sutajiamu",
+    "translate": "Stadium"
+  },
+  {
+    "kanji": "像",
+    "katakana": "ぞう",
+    "romaji": "zou",
+    "translate": "Statue"
+  },
+  {
+    "kanji": "寺",
+    "katakana": "",
+    "romaji": "tera",
+    "translate": "Temple",
+    "notes": "Pronounced as 'ji' when paired with other words, or as 'dera' in certain cases (e.g. yamadera)"
+  },
+  {
+    "kanji": "タワー",
+    "katakana": "タワー",
+    "romaji": "tawa",
+    "translate": "Tower",
+    "notes": "Used for modern structures"
+  },
+  {
+    "kanji": "町",
+    "katakana": "まち",
+    "romaji": "machi",
+    "translate": "Town"
+  },
+  {
+    "kanji": "谷",
+    "katakana": "たに",
+    "romaji": "tani",
+    "translate": "Valley"
+  },
+  {
+    "kanji": "ベルト",
+    "katakana": "ベルト",
+    "romaji": "beruto",
+    "translate": "Belt",
+    "notes": "Differs from obi (おび), the waist sash used when wearing kimonos"
+  },
+  {
+    "kanji": "ブラウス",
+    "katakana": "ブラウス",
+    "romaji": "burausu",
+    "translate": "Blouse"
+  },
+  {
+    "kanji": "帽子",
+    "katakana": "ぼうし",
+    "romaji": "boushi",
+    "translate": "Cap/Hat"
+  },
+  {
+    "kanji": "上着",
+    "katakana": "うわぎ",
+    "romaji": "uwagi",
+    "translate": "Coat",
+    "notes": "Could also mean jacket"
+  },
+  {
+    "kanji": "ドレス",
+    "katakana": "ドレス",
+    "romaji": "doresu",
+    "translate": "Dress"
+  },
+  {
+    "kanji": "シャツ",
+    "katakana": "シャツ",
+    "romaji": "shatsu",
+    "translate": "Shirt",
+    "notes": "Tees are t-shatsu"
+  },
+  {
+    "kanji": "靴",
+    "katakana": "くつ",
+    "romaji": "kutsu",
+    "translate": "Shoes"
+  },
+  {
+    "kanji": "パンツ",
+    "katakana": "パンツ",
+    "romaji": "pantsu",
+    "translate": "Shorts"
+  },
+  {
+    "kanji": "スカート",
+    "katakana": "スカート",
+    "romaji": "skirto",
+    "translate": "Skirt"
+  },
+  {
+    "kanji": "袖",
+    "katakana": "そで",
+    "romaji": "sode",
+    "translate": "Sleeve",
+    "notes": "Hansode (半袖) is short-sleeve, nagasode (長袖) is long-sleeve, and sodenashi (袖無し) is sleeveless"
+  },
+  {
+    "kanji": "靴下",
+    "katakana": "くつした",
+    "romaji": "kutsushita",
+    "translate": "Socks"
+  },
+  {
+    "kanji": "セーター",
+    "katakana": "セーター",
+    "romaji": "seta",
+    "translate": "Sweater"
+  },
+  {
+    "kanji": "ズボン",
+    "katakana": "ズボン",
+    "romaji": "trousers",
+    "translate": "Trousers"
+  },
+  {
+    "kanji": "下着",
+    "katakana": "したぎ",
+    "romaji": "shitagi",
+    "translate": "Underwear"
+  },
+  {
+    "kanji": "黒",
+    "katakana": "くろ",
+    "romaji": "kuro",
+    "translate": "Black"
+  },
+  {
+    "kanji": "青い",
+    "katakana": "あおい",
+    "romaji": "aoi",
+    "translate": "Blue"
+  },
+  {
+    "kanji": "茶色",
+    "katakana": "ちゃいろ",
+    "romaji": "chairo",
+    "translate": "Brown"
+  },
+  {
+    "kanji": "グレー",
+    "katakana": "グレー",
+    "romaji": "gure",
+    "translate": "Gray"
+  },
+  {
+    "kanji": "緑",
+    "katakana": "みどり",
+    "romaji": "midori",
+    "translate": "Green"
+  },
+  {
+    "kanji": "オレンジ",
+    "katakana": "オレンジ",
+    "romaji": "orenji",
+    "translate": "Orange"
+  },
+  {
+    "kanji": "ピンク",
+    "katakana": "ピンク",
+    "romaji": "pinku",
+    "translate": "Pink"
+  },
+  {
+    "kanji": "紫",
+    "katakana": "むらさき",
+    "romaji": "murasaki",
+    "translate": "Purple"
+  },
+  {
+    "kanji": "赤",
+    "katakana": "あか",
+    "romaji": "aka",
+    "translate": "Red"
+  },
+  {
+    "kanji": "白",
+    "katakana": "しろ",
+    "romaji": "shiro",
+    "translate": "White"
+  },
+  {
+    "kanji": "黄色",
+    "katakana": "きいろ",
+    "romaji": "kiiro",
+    "translate": "Yellow"
+  },
+  {
+    "kanji": "銀行",
+    "katakana": "ぎんこう",
+    "romaji": "ginkou",
+    "translate": "Bank"
+  },
+  {
+    "kanji": "エーティーエム",
+    "katakana": "エーティーエム",
+    "romaji": "ediemu",
+    "translate": "ATM"
+  },
+  {
+    "kanji": "大使館",
+    "katakana": "たいしかん",
+    "romaji": "taishikan",
+    "translate": "Embassy"
+  },
+  {
+    "kanji": "避難所",
+    "katakana": "ひなんじょ",
+    "romaji": "hinansho",
+    "translate": "Evacuation Shelter"
+  },
+  {
+    "kanji": "受付",
+    "katakana": "うけつけ",
+    "romaji": "uketsuke",
+    "translate": "Front Desk"
+  },
+  {
+    "kanji": "病院",
+    "katakana": "びょういん",
+    "romaji": "byouin",
+    "translate": "Hospital"
+  },
+  {
+    "kanji": "両替",
+    "katakana": "りょうがえ",
+    "romaji": "ryougae",
+    "translate": "Money Exchange"
+  },
+  {
+    "kanji": "警察署",
+    "katakana": "けいさつしょ",
+    "romaji": "keisatsusho",
+    "translate": "Police Station"
+  },
+  {
+    "kanji": "郵便局",
+    "katakana": "ゆうびんきょく",
+    "romaji": "yuubinkyoku",
+    "translate": "Post Office"
+  },
+  {
+    "kanji": "観光案内所",
+    "katakana": "かんこうあんないじょ",
+    "romaji": "kankouannaijo",
+    "translate": "Tourist Information"
+  },
+  {
+    "kanji": "牛肉",
+    "katakana": "ぎゅうにく",
+    "romaji": "gyuuniku",
+    "translate": "Beef"
+  },
+  {
+    "kanji": "ビーフ",
+    "katakana": "ビーフ",
+    "romaji": "befu",
+    "translate": "Beef (Western-style)"
+  },
+  {
+    "kanji": "和牛",
+    "katakana": "わぎゅう",
+    "romaji": "wagyuu",
+    "translate": "Japanese Beef"
+  },
+  {
+    "kanji": "朝ごはん",
+    "katakana": "あさごはん",
+    "romaji": "asagohan",
+    "translate": "Breakfast"
+  },
+  {
+    "kanji": "朝食",
+    "katakana": "ちょうしょく",
+    "romaji": "choushoku",
+    "translate": "Breakfast"
+  },
+  {
+    "kanji": "ケーキ",
+    "katakana": "ケーキ",
+    "romaji": "keki",
+    "translate": "Cake"
+  },
+  {
+    "kanji": "鶏肉",
+    "katakana": "とりにく",
+    "romaji": "toriniku",
+    "translate": "Chicken"
+  },
+  {
+    "kanji": "カニ",
+    "katakana": "カニ",
+    "romaji": "kani",
+    "translate": "Crab"
+  },
+  {
+    "kanji": "デザート",
+    "katakana": "デザート",
+    "romaji": "dezato",
+    "translate": "Dessert"
+  },
+  {
+    "kanji": "夕食",
+    "katakana": "ゆうしょく",
+    "romaji": "yuushoku",
+    "translate": "Dinner"
+  },
+  {
+    "kanji": "晩ご飯",
+    "katakana": "ばんごはん",
+    "romaji": "bangohan",
+    "translate": "Dinner"
+  },
+  {
+    "kanji": "卵",
+    "katakana": "たまご",
+    "romaji": "tamago",
+    "translate": "Egg"
+  },
+  {
+    "kanji": "魚",
+    "katakana": "さかな",
+    "romaji": "sakana",
+    "translate": "Fish"
+  },
+  {
+    "kanji": "揚",
+    "katakana": "あげ",
+    "romaji": "age",
+    "translate": "Fried"
+  },
+  {
+    "kanji": "果物",
+    "katakana": "くだもの",
+    "romaji": "kudamono",
+    "translate": "Fruits"
+  },
+  {
+    "kanji": "昼食",
+    "katakana": "ちゅうしょく",
+    "romaji": "chuushoku",
+    "translate": "Lunch"
+  },
+  {
+    "kanji": "ランチ",
+    "katakana": "ランチ",
+    "romaji": "ranchi",
+    "translate": "Lunch"
+  },
+  {
+    "kanji": "無し",
+    "katakana": "なし",
+    "romaji": "nashi",
+    "translate": "Without"
+  },
+  {
+    "kanji": "肉",
+    "katakana": "にく",
+    "romaji": "niku",
+    "translate": "Flesh/Meat"
+  },
+  {
+    "kanji": "魚",
+    "katakana": "さかな",
+    "romaji": "sakana",
+    "translate": "Fish"
+  },
+  {
+    "kanji": "豚肉",
+    "katakana": "ぶたにく",
+    "romaji": "butaniku",
+    "translate": "Pork"
+  },
+  {
+    "kanji": "羊肉",
+    "katakana": "ようにく",
+    "romaji": "youniku",
+    "translate": "Mutton"
+  },
+  {
+    "kanji": "菓子",
+    "katakana": "かし",
+    "romaji": "kashi",
+    "translate": "Pastry/Sweets"
+  },
+  {
+    "kanji": "ご飯",
+    "katakana": "ごはん",
+    "romaji": "gohan",
+    "translate": "Rice"
+  },
+  {
+    "kanji": "おつまみ",
+    "katakana": "おつまみ",
+    "romaji": "otsumami",
+    "translate": "Snack"
+  },
+  {
+    "kanji": "スープ",
+    "katakana": "スープ",
+    "romaji": "supu",
+    "translate": "Soup"
+  },
+  {
+    "kanji": "蒸し",
+    "katakana": "むし",
+    "romaji": "mushi",
+    "translate": "Steamed"
+  },
+  {
+    "kanji": "夜食",
+    "katakana": "やしょく",
+    "romaji": "yashoku",
+    "translate": "Supper, midnight snack"
+  },
+  {
+    "kanji": "野菜",
+    "katakana": "やさい",
+    "romaji": "yasai",
+    "translate": "Vegetables"
+  },
+  {
+    "kanji": "食",
+    "katakana": "しょく",
+    "romaji": "shoku",
+    "translate": "Food"
+  },
+  {
+    "kanji": "飲み物",
+    "katakana": "のみもの",
+    "romaji": "nomimono",
+    "translate": "Drink, beverage"
+  },
+  {
+    "kanji": "海老",
+    "katakana": "えび",
+    "romaji": "ebi",
+    "translate": "Shrimp, Prawn"
+  },
+  {
+    "kanji": "無添加",
+    "katakana": "むてんか",
+    "romaji": "mutenka",
+    "translate": "Additive-free"
+  },
+  {
+    "kanji": "無",
+    "katakana": "む",
+    "romaji": "mu",
+    "translate": "Free of"
+  },
+  {
+    "kanji": "塩",
+    "katakana": "しお",
+    "romaji": "shio",
+    "translate": "Salt"
+  },
+  {
+    "kanji": "砂糖",
+    "katakana": "さとう",
+    "romaji": "satou",
+    "translate": "Sugar"
+  },
+  {
+    "kanji": "りんご",
+    "katakana": "りんご",
+    "romaji": "ringo",
+    "translate": "Apple"
+  },
+  {
+    "kanji": "バナナ",
+    "katakana": "バナナ",
+    "romaji": "banana",
+    "translate": "Banana"
+  },
+  {
+    "kanji": "ブドウ",
+    "katakana": "ブドウ",
+    "romaji": "budou",
+    "translate": "Grapes"
+  },
+  {
+    "kanji": "レモン",
+    "katakana": "レモン",
+    "romaji": "remon",
+    "translate": "Lemon"
+  },
+  {
+    "kanji": "メロン",
+    "katakana": "メロン",
+    "romaji": "meron",
+    "translate": "Melon"
+  },
+  {
+    "kanji": "オレンジ",
+    "katakana": "オレンジ",
+    "romaji": "orenji",
+    "translate": "Orange"
+  },
+  {
+    "kanji": "梨",
+    "katakana": "なし",
+    "romaji": "nashi",
+    "translate": "Pear"
+  },
+  {
+    "kanji": "パイナップル",
+    "katakana": "パイナップル",
+    "romaji": "painappuru",
+    "translate": "Pineapple"
+  },
+  {
+    "kanji": "西瓜",
+    "katakana": "すいか",
+    "romaji": "suika",
+    "translate": "Watermelon"
+  },
+  {
+    "kanji": "鰻",
+    "katakana": "うなぎ",
+    "romaji": "unagi",
+    "translate": "Eel"
+  },
+  {
+    "kanji": "鯖",
+    "katakana": "さば",
+    "romaji": "saba",
+    "translate": "Mackerel"
+  },
+  {
+    "kanji": "たこ",
+    "katakana": "たこ",
+    "romaji": "tako",
+    "translate": "Octopus"
+  },
+  {
+    "kanji": "秋刀魚",
+    "katakana": "さんま",
+    "romaji": "sanma",
+    "translate": "Pacific Saury, mackerel pike"
+  },
+  {
+    "kanji": "イクラ",
+    "katakana": "イクラ",
+    "romaji": "igura",
+    "translate": "Roe"
+  },
+  {
+    "kanji": "鮭",
+    "katakana": "さけ",
+    "romaji": "sake",
+    "translate": "Salmon"
+  },
+  {
+    "kanji": "帆立",
+    "katakana": "ほたて",
+    "romaji": "hotate",
+    "translate": "Scallop"
+  },
+  {
+    "kanji": "鯛",
+    "katakana": "たい",
+    "romaji": "tai",
+    "translate": "Sea Bream"
+  },
+  {
+    "kanji": "うに",
+    "katakana": "うに",
+    "romaji": "uni",
+    "translate": "Sea Urchin"
+  },
+  {
+    "kanji": "鰹",
+    "katakana": "かつお",
+    "romaji": "katsuo",
+    "translate": "Skipjack Tuna/oceanic bonito"
+  },
+  {
+    "kanji": "いか",
+    "katakana": "いか",
+    "romaji": "ika",
+    "translate": "Squid"
+  },
+  {
+    "kanji": "北寄貝",
+    "katakana": "ホッキがい",
+    "romaji": "hokkigai",
+    "translate": "Surf Clam"
+  },
+  {
+    "kanji": "鮪",
+    "katakana": "まぐろ",
+    "romaji": "maguro",
+    "translate": "Tuna"
+  },
+  {
+    "kanji": "アレルギー",
+    "katakana": "アレルギー",
+    "romaji": "arerugi",
+    "translate": "Allergy"
+  },
+  {
+    "kanji": "診療所",
+    "katakana": "しんりょうしょ",
+    "romaji": "shinryousho",
+    "translate": "Clinic"
+  },
+  {
+    "kanji": "便秘",
+    "katakana": "べんぴ",
+    "romaji": "benpi",
+    "translate": "Constipation"
+  },
+  {
+    "kanji": "咳",
+    "katakana": "せき",
+    "romaji": "seki",
+    "translate": "Cough"
+  },
+  {
+    "kanji": "怪我",
+    "katakana": "けが",
+    "romaji": "kega",
+    "translate": "Cuts/Injury"
+  },
+  {
+    "kanji": "下痢",
+    "katakana": "げり",
+    "romaji": "geri",
+    "translate": "Diarrhea"
+  },
+  {
+    "kanji": "嘔吐",
+    "katakana": "おうと",
+    "romaji": "outo",
+    "translate": "Vomiting"
+  },
+  {
+    "kanji": "消毒剤",
+    "katakana": "しょうどくざい",
+    "romaji": "shoudokuzai",
+    "translate": "Disinfectant"
+  },
+  {
+    "kanji": "薬局",
+    "katakana": "やっきょく",
+    "romaji": "yakkyoku",
+    "translate": "Drugstore"
+  },
+  {
+    "kanji": "熱",
+    "katakana": "ねつ",
+    "romaji": "netsu",
+    "translate": "Fever"
+  },
+  {
+    "kanji": "風邪",
+    "katakana": "かぜ",
+    "romaji": "kaze",
+    "translate": "Flu"
+  },
+  {
+    "kanji": "胃薬",
+    "katakana": "いぐすり",
+    "romaji": "igusuri",
+    "translate": "Gastric Medication"
+  },
+  {
+    "kanji": "くらくら",
+    "katakana": "くらくら",
+    "romaji": "kurakura",
+    "translate": "Giddiness, dizzy"
+  },
+  {
+    "kanji": "頭痛",
+    "katakana": "ずつう",
+    "romaji": "zutsuu",
+    "translate": "Headache"
+  },
+  {
+    "kanji": "錠剤",
+    "katakana": "じょうざい",
+    "romaji": "jouzai",
+    "translate": "Lozenges"
+  },
+  {
+    "kanji": "診察",
+    "katakana": "しんさつ",
+    "romaji": "shinsatsu",
+    "translate": "Medical Examination"
+  },
+  {
+    "kanji": "薬",
+    "katakana": "くすり",
+    "romaji": "kusuri",
+    "translate": "Medicine"
+  },
+  {
+    "kanji": "痛い",
+    "katakana": "いたい",
+    "romaji": "itai",
+    "translate": "Painful"
+  },
+  {
+    "kanji": "鎮痛剤",
+    "katakana": "ちんつうざい",
+    "romaji": "chintsuuzai",
+    "translate": "Painkillers"
+  },
+  {
+    "kanji": "鼻水",
+    "katakana": "はなみず",
+    "romaji": "hanamizu",
+    "translate": "Runny Nose/Mucus"
+  },
+  {
+    "kanji": "胸",
+    "katakana": "むね",
+    "romaji": "mune",
+    "translate": "Chest"
+  },
+  {
+    "kanji": "耳",
+    "katakana": "みみ",
+    "romaji": "mimi",
+    "translate": "Ears"
+  },
+  {
+    "kanji": "目",
+    "katakana": "め",
+    "romaji": "me",
+    "translate": "Eyes"
+  },
+  {
+    "kanji": "足下",
+    "katakana": "あしもと",
+    "romaji": "ashimoto",
+    "translate": "Feet"
+  },
+  {
+    "kanji": "手",
+    "katakana": "て",
+    "romaji": "te",
+    "translate": "Hands"
+  },
+  {
+    "kanji": "頭",
+    "katakana": "あたま",
+    "romaji": "atama",
+    "translate": "Head"
+  },
+  {
+    "kanji": "心臓",
+    "katakana": "しんぞう",
+    "romaji": "shinzou",
+    "translate": "Heart"
+  },
+  {
+    "kanji": "脚",
+    "katakana": "あし",
+    "romaji": "ashi",
+    "translate": "Legs"
+  },
+  {
+    "kanji": "鼻",
+    "katakana": "はな",
+    "romaji": "hana",
+    "translate": "Nose"
+  },
+  {
+    "kanji": "お腹",
+    "katakana": "おなか",
+    "romaji": "onaka",
+    "translate": "Stomach"
+  },
+  {
+    "kanji": "喉",
+    "katakana": "のど",
+    "romaji": "nodo",
+    "translate": "Throat"
+  },
+  {
+    "kanji": "パン屋",
+    "katakana": "パンや",
+    "romaji": "panya",
+    "translate": "Bakery"
+  },
+  {
+    "kanji": "大きい",
+    "katakana": "おおきい",
+    "romaji": "ookii",
+    "translate": "Big"
+  },
+  {
+    "kanji": "大きすぎる",
+    "katakana": "おおきすぎる",
+    "romaji": "ookisugiru",
+    "translate": "Too big"
+  },
+  {
+    "kanji": "本",
+    "katakana": "ほん",
+    "romaji": "hon",
+    "translate": "Books"
+  },
+  {
+    "kanji": "書店",
+    "katakana": "しょてん",
+    "romaji": "shoten",
+    "translate": "Bookstore"
+  },
+  {
+    "kanji": "安い",
+    "katakana": "やすい",
+    "romaji": "yasui",
+    "translate": "Cheap"
+  },
+  {
+    "kanji": "高い",
+    "katakana": "たかい",
+    "romaji": "takai",
+    "translate": "Expensive"
+  },
+  {
+    "kanji": "高いすぎる",
+    "katakana": "たかいすぎる",
+    "romaji": "takaisugiru",
+    "translate": "Too expensive"
+  },
+  {
+    "kanji": "タバコ",
+    "katakana": "タバコ",
+    "romaji": "tabaco",
+    "translate": "Cigarettes"
+  },
+  {
+    "kanji": "コンビニ",
+    "katakana": "コンビニ",
+    "romaji": "konbini",
+    "translate": "Convenience Store"
+  },
+  {
+    "kanji": "デパート",
+    "katakana": "デパート",
+    "romaji": "depato",
+    "translate": "Department Store"
+  },
+  {
+    "kanji": "電子機器",
+    "katakana": "でんしきき",
+    "romaji": "denshikiki",
+    "translate": "Electronic appliances"
+  },
+  {
+    "kanji": "八百屋",
+    "katakana": "やおや",
+    "romaji": "yaoya",
+    "translate": "Greengrocer"
+  },
+  {
+    "kanji": "酒屋",
+    "katakana": "さかや",
+    "romaji": "sakaya",
+    "translate": "Liquor Store"
+  },
+  {
+    "kanji": "洋菓子屋",
+    "katakana": "ようがしや",
+    "romaji": "yougashiya",
+    "translate": "Pastry Shop"
+  },
+  {
+    "kanji": "ケーキ屋",
+    "katakana": "ケーキや",
+    "romaji": "kekiya",
+    "translate": "Cake Shop, Pastry Shop"
+  },
+  {
+    "kanji": "店",
+    "katakana": "みせ",
+    "romaji": "mise",
+    "translate": "Shop"
+  },
+  {
+    "kanji": "小さい",
+    "katakana": "ちいさい",
+    "romaji": "chiisai",
+    "translate": "Small"
+  },
+  {
+    "kanji": "小さすぎる",
+    "katakana": "ちいさいすぎる",
+    "romaji": "chiisasugiru",
+    "translate": "Too small"
+  },
+  {
+    "kanji": "スーパー",
+    "katakana": "スーパー",
+    "romaji": "supa",
+    "translate": "Supermarket"
+  },
+  {
+    "kanji": "午後",
+    "katakana": "ごご",
+    "romaji": "gogo",
+    "translate": "Afternoon"
+  },
+  {
+    "kanji": "午前",
+    "katakana": "ごぜん",
+    "romaji": "gozen",
+    "translate": "AM"
+  },
+  {
+    "kanji": "午後",
+    "katakana": "ごご",
+    "romaji": "gogo",
+    "translate": "PM"
+  },
+  {
+    "kanji": "昨夜",
+    "katakana": "さくや",
+    "romaji": "sakuya",
+    "translate": "Last Night"
+  },
+  {
+    "kanji": "真夜中",
+    "katakana": "まよなか",
+    "romaji": "mayonaka",
+    "translate": "Midnight"
+  },
+  {
+    "kanji": "半夜",
+    "katakana": "はんや",
+    "romaji": "hanya",
+    "translate": "Midnight"
+  },
+  {
+    "kanji": "朝",
+    "katakana": "あさ",
+    "romaji": "asa",
+    "translate": "Morning"
+  },
+  {
+    "kanji": "正午",
+    "katakana": "しょうご",
+    "romaji": "shougo",
+    "translate": "Noon"
+  },
+  {
+    "kanji": "今日",
+    "katakana": "きょう",
+    "romaji": "kyou",
+    "translate": "Today"
+  },
+  {
+    "kanji": "明日",
+    "katakana": "あした",
+    "romaji": "ashita",
+    "translate": "Tomorrow"
+  },
+  {
+    "kanji": "あす",
+    "katakana": "あす",
+    "romaji": "asu",
+    "translate": "Tomorrow (used in news reports, weather forecasts, and transportation services)"
+  },
+  {
+    "kanji": "今晩",
+    "katakana": "こんばん",
+    "romaji": "konban",
+    "translate": "Tonight"
+  },
+  {
+    "kanji": "昨日",
+    "katakana": "きのう",
+    "romaji": "kinou",
+    "translate": "Yesterday"
+  },
+  {
+    "kanji": "月曜日",
+    "katakana": "げつようび",
+    "romaji": "getsuyoubi",
+    "translate": "Monday"
+  },
+  {
+    "kanji": "火曜日",
+    "katakana": "かようび",
+    "romaji": "kayoubi",
+    "translate": "Tuesday"
+  },
+  {
+    "kanji": "水曜日",
+    "katakana": "すいようび",
+    "romaji": "suiyoubi",
+    "translate": "Wednesday"
+  },
+  {
+    "kanji": "木曜日",
+    "katakana": "もくようび",
+    "romaji": "mokuyoubi",
+    "translate": "Thursday"
+  },
+  {
+    "kanji": "金曜日",
+    "katakana": "きんようび",
+    "romaji": "kinyoubi",
+    "translate": "Friday"
+  },
+  {
+    "kanji": "土曜日",
+    "katakana": "どようび",
+    "romaji": "doyoubi",
+    "translate": "Saturday"
+  },
+  {
+    "kanji": "日曜日",
+    "katakana": "にちようび",
+    "romaji": "nichiyoubi",
+    "translate": "Sunday"
+  },
+  {
+    "kanji": "飛行機",
+    "katakana": "ひこうき",
+    "romaji": "hikouki",
+    "translate": "Airplane"
+  },
+  {
+    "kanji": "空港",
+    "katakana": "くうこう",
+    "romaji": "kuukou",
+    "translate": "Airport"
+  },
+  {
+    "kanji": "到着時間",
+    "katakana": "とうちゃくじかん",
+    "romaji": "touchakujikan",
+    "translate": "Arrival Time"
+  },
+  {
+    "kanji": "バス乗り場",
+    "katakana": "バスのりば",
+    "romaji": "basunoriba",
+    "translate": "Bus Stop"
+  },
+  {
+    "kanji": "出発時間",
+    "katakana": "しゅっぱつじかん",
+    "romaji": "shuppatsujikan",
+    "translate": "Departure Time"
+  },
+  {
+    "kanji": "見合わせています",
+    "katakana": "みあわせています",
+    "romaji": "miawaseteimasu",
+    "translate": "Disruption, Out of Service"
+  },
+  {
+    "kanji": "フェリーターミナル",
+    "katakana": "フェリーターミナル",
+    "romaji": "fueritaminaru",
+    "translate": "Ferry Terminal"
+  },
+  {
+    "kanji": "便",
+    "katakana": "びん",
+    "romaji": "bin",
+    "translate": "Flight"
+  },
+  {
+    "kanji": "港",
+    "katakana": "みなと",
+    "romaji": "minato",
+    "translate": "Harbor"
+  },
+  {
+    "kanji": "船",
+    "katakana": "ふね",
+    "romaji": "fune",
+    "translate": "Ship"
+  },
+  {
+    "kanji": "地下鉄",
+    "katakana": "ちかてつ",
+    "romaji": "chikatetsu",
+    "translate": "Subway"
+  },
+  {
+    "kanji": "タクシー",
+    "katakana": "タクシー",
+    "romaji": "takushi",
+    "translate": "Taxi"
+  },
+  {
+    "kanji": "きっぷ",
+    "katakana": "きっぷ",
+    "romaji": "kippu",
+    "translate": "Ticket"
+  },
+  {
+    "kanji": "チケット",
+    "katakana": "チケット",
+    "romaji": "chiketto",
+    "translate": "Ticket"
+  },
+  {
+    "kanji": "券",
+    "katakana": "けん",
+    "romaji": "ken",
+    "translate": "Ticket"
+  },
+  {
+    "kanji": "切符売り場",
+    "katakana": "きっぷうりば",
+    "romaji": "kippuuriba",
+    "translate": "Ticket Sales"
+  },
+  {
+    "kanji": "スイカ",
+    "katakana": "スイカ",
+    "romaji": "suica",
+    "translate": "Suica"
+  },
+  {
+    "kanji": "パスモ",
+    "katakana": "パスモ",
+    "romaji": "pasmo",
+    "translate": "PASMO"
+  },
+  {
+    "kanji": "空港",
+    "katakana": "くうこう",
+    "romaji": "kuukou",
+    "translate": "Airport"
+  },
+  {
+    "kanji": "電車",
+    "katakana": "でんしゃ",
+    "romaji": "densha",
+    "translate": "Train"
+  },
+  {
+    "kanji": "駅",
+    "katakana": "えき",
+    "romaji": "eki",
+    "translate": "Station"
+  },
+  {
+    "kanji": "案内",
+    "katakana": "あんない",
+    "romaji": "annai",
+    "translate": "Guidance, information, notice"
+  },
+  {
+    "kanji": "情報",
+    "katakana": "じょうほう",
+    "romaji": "jouhou",
+    "translate": "Information"
+  },
+  {
+    "kanji": "新幹線",
+    "katakana": "しんかんせん",
+    "romaji": "shinkansen",
+    "translate": "Bullet train"
+  },
+  {
+    "kanji": "バス",
+    "katakana": "バス",
+    "romaji": "bus",
+    "translate": "Bus"
+  },
+  {
+    "kanji": "終点",
+    "katakana": "しゅうてん",
+    "romaji": "shuuten",
+    "translate": "Final stop"
+  },
+  {
+    "kanji": "携帯",
+    "katakana": "けいたい",
+    "romaji": "keitai",
+    "translate": "Cellphone"
+  },
+  {
+    "kanji": "充電端子",
+    "katakana": "じゅうでんたんし",
+    "romaji": "juudentanshi",
+    "translate": "Charging Terminal"
+  },
+  {
+    "kanji": "時計",
+    "katakana": "とけい",
+    "romaji": "tokei",
+    "translate": "Clock"
+  },
+  {
+    "kanji": "櫛",
+    "katakana": "くし",
+    "romaji": "kushi",
+    "translate": "Comb"
+  },
+  {
+    "kanji": "洗剤",
+    "katakana": "せんざい",
+    "romaji": "senzai",
+    "translate": "Detergent"
+  },
+  {
+    "kanji": "爪切り",
+    "katakana": "つめきり",
+    "romaji": "tsumekiri",
+    "translate": "Nail Cutter"
+  },
+  {
+    "kanji": "パワーバンク",
+    "katakana": "パワーバンク",
+    "romaji": "pawabanku",
+    "translate": "Power Bank"
+  },
+  {
+    "kanji": "カミソリ",
+    "katakana": "カミソリ",
+    "romaji": "kamisori",
+    "translate": "Razor"
+  },
+  {
+    "kanji": "生理ナプキン",
+    "katakana": "せいりナプキン",
+    "romaji": "seirinapukin",
+    "translate": "Sanitary Napkin"
+  },
+  {
+    "kanji": "シャンプー",
+    "katakana": "シャンプー",
+    "romaji": "shiyanpu",
+    "translate": "Shampoo"
+  },
+  {
+    "kanji": "SIMカード",
+    "katakana": "SIMカード",
+    "romaji": "simcardo",
+    "translate": "SIM Card"
+  },
+  {
+    "kanji": "石鹸",
+    "katakana": "せっけん",
+    "romaji": "sekken",
+    "translate": "Soap"
+  },
+  {
+    "kanji": "スーツケース",
+    "katakana": "スーツケース",
+    "romaji": "sutsukesu",
+    "translate": "Suitcase"
+  },
+  {
+    "kanji": "歯ブラシ",
+    "katakana": "はブラシ",
+    "romaji": "haburashi",
+    "translate": "Toothbrush"
+  },
+  {
+    "kanji": "歯磨き",
+    "katakana": "はみがき",
+    "romaji": "hamigaki",
+    "translate": "Toothpaste"
+  },
+  {
+    "kanji": "タオル",
+    "katakana": "タオル",
+    "romaji": "taoru",
+    "translate": "Towel"
+  },
+  {
+    "kanji": "旅行アダプター",
+    "katakana": "りょこうアダプター",
+    "romaji": "ryokouadaputa",
+    "translate": "Travel Adaptor"
+  },
+  {
+    "kanji": "晴",
+    "katakana": "はれ",
+    "romaji": "hare",
+    "translate": "Clear"
+  },
+  {
+    "kanji": "曇り",
+    "katakana": "くもり",
+    "romaji": "kumori",
+    "translate": "Cloudy"
+  },
+  {
+    "kanji": "霧",
+    "katakana": "きり",
+    "romaji": "kiri",
+    "translate": "Fog"
+  },
+  {
+    "kanji": "猛署",
+    "katakana": "もうしょ",
+    "romaji": "mousho",
+    "translate": "Heat wave, fierce heat"
+  },
+  {
+    "kanji": "雨",
+    "katakana": "あめ",
+    "romaji": "ame",
+    "translate": "Rain"
+  },
+  {
+    "kanji": "豪雨",
+    "katakana": "ごうう",
+    "romaji": "goou",
+    "translate": "Heavy rain"
+  },
+  {
+    "kanji": "大雨",
+    "katakana": "おおあめ",
+    "romaji": "ooame",
+    "translate": "Heavy rain"
+  },
+  {
+    "kanji": "雪",
+    "katakana": "ゆき",
+    "romaji": "yuki",
+    "translate": "Snow"
+  },
+  {
+    "kanji": "雷",
+    "katakana": "かみなり",
+    "romaji": "kaminari",
+    "translate": "Thunder"
+  },
+  {
+    "kanji": "台風",
+    "katakana": "たいふう",
+    "romaji": "taifuu",
+    "translate": "Typhoon"
+  },
+  {
+    "kanji": "風",
+    "katakana": "かぜ",
+    "romaji": "kaze",
+    "translate": "Wind"
+  },
+  {
+    "kanji": "暴風",
+    "katakana": "ぼうふう",
+    "romaji": "boufuu",
+    "translate": "Windstorm"
+  },
+  {
+    "kanji": "お早う",
+    "katakana": "おはよう",
+    "romaji": "ohayou",
+    "translate": "Good Morning"
+  },
+  {
+    "kanji": "今日は",
+    "katakana": "こんにちは",
+    "romaji": "konnichiha",
+    "translate": "Good Day/Afternoon"
+  },
+  {
+    "kanji": "今晩は",
+    "katakana": "こんばんは",
+    "romaji": "kombanwa",
+    "translate": "Good Evening"
+  },
+  {
+    "kanji": "お休みなさい",
+    "katakana": "おやすみなさい",
+    "romaji": "oyasuminasai",
+    "translate": "Good Night"
+  },
+  {
+    "kanji": "左様なら",
+    "katakana": "さようなら",
+    "romaji": "sayounara",
+    "translate": "Goodbye"
+  },
+  {
+    "kanji": "済みません",
+    "katakana": "すみません",
+    "romaji": "sumimasen",
+    "translate": "Excuse Me"
+  },
+  {
+    "kanji": "有難う",
+    "katakana": "ありがとう",
+    "romaji": "arigatou",
+    "translate": "Thank You"
+  },
+  {
+    "kanji": "御免なさい",
+    "katakana": "ごめんなさい",
+    "romaji": "gomenasai",
+    "translate": "Sorry"
+  },
+  {
+    "kanji": "英語が話せますか",
+    "katakana": "えいごがはなせますか",
+    "romaji": "eigogahanasemasuka",
+    "translate": "Do you speak English?"
+  },
+  {
+    "kanji": "日本語が分かりません",
+    "katakana": "にほんごがわかりません",
+    "romaji": "nihongogawakarimasen",
+    "translate": "I do not understand Japanese"
+  },
+  {
+    "kanji": "大丈夫です",
+    "katakana": "だいじょうぶです",
+    "romaji": "daijoubudesu",
+    "translate": "I’m okay"
+  },
+  {
+    "kanji": "助けて",
+    "katakana": "たすけて",
+    "romaji": "tasukete",
+    "translate": "Help"
+  },
+  {
+    "kanji": "救急車を呼んで下さい",
+    "katakana": "きゅうきゅうしゃをよんでください",
+    "romaji": "kyuukyuushawoyondekudasai",
+    "translate": "Please call an ambulance"
+  },
+  {
+    "kanji": "警察を呼んで下さい",
+    "katakana": "けいさつをよんでください",
+    "romaji": "keisatsuwoyondekudasai",
+    "translate": "Please call the police"
+  },
+  {
+    "kanji": "一",
+    "katakana": "いち",
+    "romaji": "ichi",
+    "translate": "One"
+  },
+  {
+    "kanji": "二",
+    "katakana": "に",
+    "romaji": "ni",
+    "translate": "Two"
+  },
+  {
+    "kanji": "三",
+    "katakana": "さん",
+    "romaji": "san",
+    "translate": "Three"
+  },
+  {
+    "kanji": "四",
+    "katakana": "し",
+    "romaji": "shiyon",
+    "translate": "Four"
+  },
+  {
+    "kanji": "五",
+    "katakana": "ご",
+    "romaji": "go",
+    "translate": "Five"
+  },
+  {
+    "kanji": "六",
+    "katakana": "ろく",
+    "romaji": "roku",
+    "translate": "Six"
+  },
+  {
+    "kanji": "七",
+    "katakana": "しち",
+    "romaji": "shichinana",
+    "translate": "Seven"
+  },
+  {
+    "kanji": "八",
+    "katakana": "はち",
+    "romaji": "hachi",
+    "translate": "Eight"
+  },
+  {
+    "kanji": "九",
+    "katakana": "きゅう",
+    "romaji": "kyuuku",
+    "translate": "Nine"
+  },
+  {
+    "kanji": "十",
+    "katakana": "じゅう",
+    "romaji": "juu",
+    "translate": "Ten"
+  },
+  {
+    "kanji": "十一",
+    "katakana": "じゅういち",
+    "romaji": "juuichi",
+    "translate": "Eleven"
+  },
+  {
+    "kanji": "十二",
+    "katakana": "じゅうに",
+    "romaji": "juuni",
+    "translate": "Twelve"
+  },
+  {
+    "kanji": "二十",
+    "katakana": "にじゅう",
+    "romaji": "nijuu",
+    "translate": "Twenty"
+  },
+  {
+    "kanji": "三十",
+    "katakana": "さんじゅう",
+    "romaji": "sanjuu",
+    "translate": "Thirty"
+  },
+  {
+    "kanji": "百",
+    "katakana": "ひゃく",
+    "romaji": "hyaku",
+    "translate": "Hundred"
+  },
+  {
+    "kanji": "千",
+    "katakana": "せん",
+    "romaji": "sen",
+    "translate": "Thousand"
+  },
+  {
+    "kanji": "万",
+    "katakana": "まん",
+    "romaji": "man",
+    "translate": "Ten Thousand"
+  },
+  {
+    "kanji": "春",
+    "katakana": "はる",
+    "romaji": "haru",
+    "translate": "Spring"
+  },
+  {
+    "kanji": "夏",
+    "katakana": "なつ",
+    "romaji": "natsu",
+    "translate": "Summer"
+  },
+  {
+    "kanji": "秋",
+    "katakana": "あき",
+    "romaji": "aki",
+    "translate": "Autumn"
+  },
+  {
+    "kanji": "冬",
+    "katakana": "ふゆ",
+    "romaji": "fuyu",
+    "translate": "Winter"
+  },
+  {
+    "kanji": "何",
+    "katakana": "なに",
+    "romaji": "nani",
+    "translate": "What"
+  },
+  {
+    "kanji": "何時",
+    "katakana": "いつ",
+    "romaji": "itsu",
+    "translate": "When"
+  },
+  {
+    "kanji": "何処",
+    "katakana": "どこ",
+    "romaji": "doko",
+    "translate": "Where"
+  },
+  {
+    "kanji": "誰",
+    "katakana": "だれ",
+    "romaji": "daredonata",
+    "translate": "Who"
+  },
+  {
+    "kanji": "何故",
+    "katakana": "なぜ",
+    "romaji": "naze",
+    "translate": "Why"
+  },
+  {
+    "kanji": "如何して",
+    "katakana": "ど う し て",
+    "romaji": "douyatte",
+    "translate": "How"
+  },
+  {
+    "kanji": "危ない",
+    "katakana": "あぶない",
+    "romaji": "abunai",
+    "translate": "Danger, Attention"
+  },
+  {
+    "kanji": "和",
+    "katakana": "わ",
+    "romaji": "wa",
+    "translate": "Japanese. This kanji means that it's Japanese style or from Japan. For example, in restaurants, you'll see this next to some beef, showing that this beef is produced somewhere in the country."
+  },
+  {
+    "kanji": "洋",
+    "katakana": "よう",
+    "romaji": "you",
+    "translate": "Western. Alternatively, this kanji means it's Western style: clothing, food, anything that is generally considered Western-influenced."
+  },
+  {
+    "kanji": "館",
+    "katakana": "かん",
+    "romaji": "kan",
+    "translate": "(large) building. You'll see this at the end of certain tourist-friendly buildings, like museums and community centers."
+  },
+  {
+    "kanji": "を",
+    "katakana": "を",
+    "romaji": "wo",
+    "translate": "Particle indicating the object"
+  },
+  {
+    "kanji": "をください",
+    "katakana": "をください",
+    "romaji": "〜wokudasai",
+    "translate": "Please give me 〜. or [〜], please."
+  },
+  {
+    "kanji": "何名様ですか",
+    "katakana": "なんめいさまですか",
+    "romaji": "nanmeisamadesuka",
+    "translate": "How many people?"
+  },
+  {
+    "kanji": "ご注文はお決まりですか",
+    "katakana": "ごちゅうもんはおきまりですか",
+    "romaji": "gochuumonwaokimaridesuka",
+    "translate": "Are you ready to order?"
+  },
+  {
+    "kanji": "ごちそうさまでした",
+    "katakana": "ごちそうさまでした",
+    "romaji": "gochisousamadeshita",
+    "translate": "It was delicious. or Thanks for the meal! used after meals"
+  },
+  {
+    "kanji": "お勘定をお願いします",
+    "katakana": "おかんじょうをおねがいします",
+    "romaji": "okanjouwoonegaishimasu",
+    "translate": "Can I have the bill, please? at the restaurant"
+  },
+  {
+    "kanji": "お願いします",
+    "katakana": "おねがいします",
+    "romaji": "onegaishimasu",
+    "translate": "Please"
+  },
+  {
+    "kanji": "いくらですか",
+    "katakana": "いくらですか",
+    "romaji": "ikuradesuka",
+    "translate": "How much is it?"
+  },
+  {
+    "kanji": "袋大丈夫です",
+    "katakana": "ふくろだいじょうぶです",
+    "romaji": "fukurodaijoubudesu",
+    "translate": "When you go eco-friendly and say no to plastic bags, you can always use this phrase. It means you don’t need a bag."
+  },
+  {
+    "kanji": "お任せで",
+    "katakana": "おまかせで",
+    "romaji": "omakasede",
+    "translate": "Used to order chef’s recommendation__often for sushi"
+  },
+  {
+    "kanji": "禁煙席",
+    "katakana": "きんえんせき",
+    "romaji": "kinenseki",
+    "translate": "Non-smoking seat"
+  },
+  {
+    "kanji": "今何時ですか",
+    "katakana": "いまなんじですか",
+    "romaji": "imananjidesuka",
+    "translate": "What time is it now?"
+  },
+  {
+    "kanji": "何時に",
+    "katakana": "なんじに",
+    "romaji": "nanjini",
+    "translate": "At what time?"
+  },
+  {
+    "kanji": "__に行きたい",
+    "katakana": "__にいきたい",
+    "romaji": "niikitai",
+    "translate": "I want to go to __"
+  },
+  {
+    "kanji": "止めてください",
+    "katakana": "とめてください",
+    "romaji": "tometekudasai",
+    "translate": "Stop, please"
+  },
+  {
+    "kanji": "ください",
+    "katakana": "ください",
+    "romaji": "kudasai",
+    "translate": "Please"
+  },
+  {
+    "kanji": "切符",
+    "katakana": "きっぷ",
+    "romaji": "kippu",
+    "translate": "Ticket"
+  },
+  {
+    "kanji": "どの電車",
+    "katakana": "どのでんしゃ",
+    "romaji": "donodensha",
+    "translate": "Which train?"
+  },
+  {
+    "kanji": "日本酒",
+    "katakana": "にほんしゅ",
+    "romaji": "nihonshu",
+    "translate": "Japanese sake"
+  },
+  {
+    "kanji": "それを貰います",
+    "katakana": "それをもらいます",
+    "romaji": "soreomoraimasu",
+    "translate": "I'll take it"
+  },
+  {
+    "kanji": "どう致しまして",
+    "katakana": "どういたしまして",
+    "romaji": "douishimashite",
+    "translate": "You're welcome"
+  },
+  {
+    "kanji": "日本語を話しません",
+    "katakana": "にほんごをはなしません",
+    "romaji": "nihongoohanashimasen",
+    "translate": "I don't speak Japanese"
+  },
+  {
+    "kanji": "英語を話しますか",
+    "katakana": "えいごをはなしますか",
+    "romaji": "eigoohanashimasuka",
+    "translate": "Do you speak English?"
+  },
+  {
+    "kanji": "すみません、もう一度言ってください",
+    "katakana": "すみませんもういちどいってください",
+    "romaji": "sumimasenmouichidoittekudasai",
+    "translate": "Excuse me, could you please say that again?"
+  },
+  {
+    "kanji": "ゆっくり話してください",
+    "katakana": "ゆっくりはなしてください",
+    "romaji": "yukkurihanashitekudasai",
+    "translate": "Can you please speak slowly?"
+  },
+  {
+    "kanji": "これはいくらですか",
+    "katakana": "これはいくらですか",
+    "romaji": "korewaikuradesuka",
+    "translate": "How much does this cost?"
+  },
+  {
+    "kanji": "助けてもらえますか",
+    "katakana": "たすけてもらえますか",
+    "romaji": "tasuketemoraemasuka",
+    "translate": "Can you please help me?"
+  },
+  {
+    "kanji": "ようこそ、お入りください",
+    "katakana": "ようこそはいりください",
+    "romaji": "yokosoohairikudasai",
+    "translate": "Welcome, please come in"
+  },
+  {
+    "kanji": "チケットを見せてください",
+    "katakana": "チケットをみせてください",
+    "romaji": "chikettoomisetekudasai",
+    "translate": "Please show your ticket"
+  },
+  {
+    "kanji": "パスポートを見せてください",
+    "katakana": "パスポートをみせてください",
+    "romaji": "pasupootoomisetekudasai",
+    "translate": "Please show your passport"
+  },
+  {
+    "kanji": "予約名は何ですか",
+    "katakana": "よやくめいはなんですか",
+    "romaji": "yoyakumeiwanandesuka",
+    "translate": "What is your reservation name?"
+  },
+  {
+    "kanji": "フライト遅延しています",
+    "katakana": "フライトちえんしています",
+    "romaji": "furaitochienshiteimasu",
+    "translate": "The flight is delayed"
+  },
+  {
+    "kanji": "フライトキャンセルされました",
+    "katakana": "フライトキャンセルされました",
+    "romaji": "furaitokyanserusaremashita",
+    "translate": "The flight has been canceled"
+  },
+  {
+    "kanji": "バッゲージクレームはこちらです",
+    "katakana": "バッゲージクレームはこちらです",
+    "romaji": "baggejikureimuwakochiradesu",
+    "translate": "Baggage claim is this way"
+  },
+  {
+    "kanji": "… 空港に到着しました",
+    "katakana": "… くうこうにとうちゃくしました",
+    "romaji": "kuukounitouchakushimashita",
+    "translate": "We have arrived at … Airport"
+  },
+  {
+    "kanji": "… 空港へ出発します",
+    "katakana": "… くうこうへしゅっぱつしました",
+    "romaji": "kuukoueshuppatsushimasu",
+    "translate": "We will depart for … Airport"
+  },
+  {
+    "kanji": "フライトに遅れがあります",
+    "katakana": "フライトにおくれがあります",
+    "romaji": "furaitoniokuregaarimasu",
+    "translate": "There is a delay in the flight"
+  },
+  {
+    "kanji": "機内持ち込みの荷物には制限があります",
+    "katakana": "きないもちこみのにもつにはせいげんがあります",
+    "romaji": "kinaimochikominonimotsuniwaseigengaarimasu",
+    "translate": "There are restrictions on carry-on baggage"
+  },
+  {
+    "kanji": "これは出発便ですか？",
+    "katakana": "これはしゅっぱつびんですか？",
+    "romaji": "korewashuppatsubindesuka",
+    "translate": "Is this a departure flight?"
+  },
+  {
+    "kanji": "これは到着便ですか？",
+    "katakana": "これはとうちゃくびんですか？",
+    "romaji": "korewatouchakubindesuka",
+    "translate": "Is this an arrival flight?"
+  },
+  {
+    "kanji": "搭乗口はどこですか？",
+    "katakana": "とうじょうぐちはどこですか？",
+    "romaji": "toujouguchiwadokodesuka",
+    "translate": "Where is the boarding gate?"
+  },
+  {
+    "kanji": "手荷物預けます",
+    "katakana": "てにもつあずけます",
+    "romaji": "tenimotsuazukemasu",
+    "translate": "I’ll check my baggage"
+  },
+  {
+    "kanji": "タクシーを呼んでください",
+    "katakana": "タクシーを呼んでください",
+    "romaji": "takushiioyondekudasai",
+    "translate": "Please call a taxi"
+  },
+  {
+    "kanji": "レンタカーを借りたいです",
+    "katakana": "レンタカーを借りたいです",
+    "romaji": "rentakaaokaritaidesu",
+    "translate": "I’d like to rent a car"
+  },
+  {
+    "kanji": "乗り継ぎ便のゲートはどこですか？",
+    "katakana": "のりつぎびんのゲートはどこですか？",
+    "romaji": "noritsugibinnogeetowadokodesuka",
+    "translate": "Where is the gate for the connecting flight?"
+  },
+  {
+    "kanji": "ここにいきたいです",
+    "katakana": "ここ に行きたいです",
+    "romaji": "kokoniikitaidesu",
+    "translate": "I want to go…here"
+  },
+  {
+    "kanji": "新宿駅に行きたいです",
+    "katakana": "しんじゅくえきにいきたいです",
+    "romaji": "shinjukuekiniikitaidesu",
+    "translate": "I want to go to Shinjuku station."
+  },
+  {
+    "kanji": "私達がどこにいるのか、地図で教えてください",
+    "katakana": "わたしたちがどこにいるのか, ちずでおしえてください",
+    "romaji": "watashitachigadokoniirunokachizudeoshietekudasai",
+    "translate": "Can you please show me where we are on the map?"
+  },
+  {
+    "kanji": "近いですか",
+    "katakana": "ちかいですか",
+    "romaji": "chikaidesuka",
+    "translate": "Is it near?"
+  },
+  {
+    "kanji": "遠いですか",
+    "katakana": "とおいですか",
+    "romaji": "tooidesuka",
+    "translate": "Is it far?"
+  },
+  {
+    "kanji": "まっすぐ行ってください",
+    "katakana": "まっすぐいってください",
+    "romaji": "massuguittekudasai",
+    "translate": "Go straight ahead"
+  },
+  {
+    "kanji": "左に曲がってください",
+    "katakana": "ひだりにまがってください",
+    "romaji": "hidarinimagattekudasai",
+    "translate": "Turn left"
+  },
+  {
+    "kanji": "右に曲がってください",
+    "katakana": "みぎにまがってください",
+    "romaji": "miginimagattekudasai",
+    "translate": "Turn right"
+  },
+  {
+    "kanji": "料金はいくらですか",
+    "katakana": "りょうきんはいくらですか",
+    "romaji": "ryoukinwaikuradesuka",
+    "translate": "What is the fare?"
+  },
+  {
+    "kanji": "このバスは … に行きますか",
+    "katakana": "このバスは … にいきますか",
+    "romaji": "konobasuwaniikimasuka",
+    "translate": "Does this bus go to … ?"
+  },
+  {
+    "kanji": "ホテルにはワイファイがありますか",
+    "katakana": "ホテルにはワイファイがありますか",
+    "romaji": "hoteruniwawaifaigaarimasuka",
+    "translate": "Is there Wi-Fi in the hotel?"
+  },
+  {
+    "kanji": "パスポート",
+    "katakana": "パスポート",
+    "romaji": "pasupooto",
+    "translate": "Passport"
+  },
+  {
+    "kanji": "IDカード",
+    "katakana": "アイディーカード",
+    "romaji": "aidikaado",
+    "translate": "ID Card"
+  },
+  {
+    "kanji": "財布",
+    "katakana": "さいふ",
+    "romaji": "saifu",
+    "translate": "Purse"
+  },
+  {
+    "kanji": "鞄",
+    "katakana": "かばん",
+    "romaji": "kaban",
+    "translate": "Sac à dos"
+  },
+  {
+    "kanji": "旅行かばん",
+    "katakana": "りょこうかばん",
+    "romaji": "ryokoukaban",
+    "translate": "Traveling bag suitcase"
+  },
+  {
+    "kanji": "電話",
+    "katakana": "でんわ",
+    "romaji": "denwa",
+    "translate": "Phone"
+  },
+  {
+    "kanji": "充電器",
+    "katakana": "じゅうでんき",
+    "romaji": "juudenki",
+    "translate": "Chargeur"
+  },
+  {
+    "kanji": "交番",
+    "katakana": "こうばん",
+    "romaji": "kouban",
+    "translate": "Police station"
+  },
+  {
+    "kanji": "靴",
+    "katakana": "くつ",
+    "romaji": "kutsu",
+    "translate": "Shoes"
+  },
+  {
+    "kanji": "帽子",
+    "katakana": "ぼうし",
+    "romaji": "boushi",
+    "translate": "Hat"
+  },
+  {
+    "kanji": "傘",
+    "katakana": "かさ",
+    "romaji": "kasa",
+    "translate": "Umbrella"
+  },
+  {
+    "kanji": "時計",
+    "katakana": "とけい",
+    "romaji": "tokei",
+    "translate": "Watch"
+  },
+  {
+    "kanji": "眼鏡",
+    "katakana": "めがね",
+    "romaji": "megane",
+    "translate": "Eyeglasses"
+  },
+  {
+    "kanji": "スーパー",
+    "katakana": "スーパー",
+    "romaji": "suupaa",
+    "translate": "Supermarket"
+  },
+  {
+    "kanji": "妻",
+    "katakana": "つま",
+    "romaji": "tsuma",
+    "translate": "My Wife"
+  },
+  {
+    "kanji": "失う",
+    "katakana": "うしなう",
+    "romaji": "ushinau",
+    "translate": "Lost"
+  },
+  {
+    "kanji": "帰る",
+    "katakana": "かえる",
+    "romaji": "kaeru",
+    "translate": "Go back to"
+  },
+  {
+    "kanji": "待つ",
+    "katakana": "まつ",
+    "romaji": "matsu",
+    "translate": "Attendre quelqu'un"
+  },
+  {
+    "kanji": "返済",
+    "katakana": "へんさい",
+    "romaji": "hensai",
+    "translate": "Refund"
+  },
+  {
+    "kanji": "ビザ",
+    "katakana": "ビザ",
+    "romaji": "biza",
+    "translate": "Visa"
+  },
+  {
+    "kanji": "薬",
+    "katakana": "くすり",
+    "romaji": "kusuri",
+    "translate": "Medecine, pharmaceuticals"
+  },
+  {
+    "kanji": "こちらへどうぞ",
+    "katakana": "こちらへどうぞ",
+    "romaji": "kochiraedouzo",
+    "translate": "This way, please"
+  },
+  {
+    "kanji": "かしこまりました",
+    "katakana": "かしこまりました",
+    "romaji": "kashikomarimashita",
+    "translate": "Certainly (in response to your order)"
+  },
+  {
+    "kanji": "お待たせいたしました",
+    "katakana": "おまたせいたしました",
+    "romaji": "omataseitashimashita",
+    "translate": "Thank you for waiting"
+  },
+  {
+    "kanji": "二人 用のテーブルをお願いします",
+    "katakana": "ふたりようのテーブルをおねがいします",
+    "romaji": "futariyounoteeburuoonegaishimasu",
+    "translate": "A table for two, please"
+  },
+  {
+    "kanji": "一人",
+    "katakana": "ひとり",
+    "romaji": "hitori",
+    "translate": "One"
+  },
+  {
+    "kanji": "三人",
+    "katakana": "さんにん",
+    "romaji": "sannin",
+    "translate": "Three"
+  },
+  {
+    "kanji": "四人",
+    "katakana": "よにん",
+    "romaji": "yonin",
+    "translate": "Four"
+  },
+  {
+    "kanji": "私は肉を食べません",
+    "katakana": "わたしはにくをたべません",
+    "romaji": "watashiwanikuotabemasen",
+    "translate": "I don’t eat meat"
+  },
+  {
+    "kanji": "何かお探しですか",
+    "katakana": "なにかおさがしですか",
+    "romaji": "nanikaosagashidesuka",
+    "translate": "Are you looking for something?"
+  },
+  {
+    "kanji": "以上でよろしいですか",
+    "katakana": "いじょうでよろしいですか",
+    "romaji": "ijyoudeyoroshiidesuka",
+    "translate": "Is that all?"
+  },
+  {
+    "kanji": "はい、どうぞ",
+    "katakana": "はい、どうぞ",
+    "romaji": "haidouzo",
+    "translate": "Here it is / Here you go"
+  },
+  {
+    "kanji": "現金でお願いします",
+    "katakana": "げんきんでおねがいします",
+    "romaji": "genkindeonegaishimasu",
+    "translate": "I would like to pay in cash"
+  },
+  {
+    "kanji": "クレジットカードでお願いします",
+    "katakana": "クレジットカードでおねがいします",
+    "romaji": "kurejittokaadodeonegaishimasu",
+    "translate": "I would like to pay by credit card"
+  },
+  {
+    "kanji": "クレジットカードは使えますか",
+    "katakana": "クレジットカードはつかえますか",
+    "romaji": "kurejittokādowatsukaemasuka",
+    "translate": "Do you accept credit cards?"
+  },
+  {
+    "kanji": "一つ",
+    "katakana": "ひとつ",
+    "romaji": "hitotsu",
+    "translate": "One"
+  },
+  {
+    "kanji": "二つ",
+    "katakana": "ふたつ",
+    "romaji": "futatsu",
+    "translate": "Two"
+  },
+  {
+    "kanji": "三つ",
+    "katakana": "みっつ",
+    "romaji": "mittsu",
+    "translate": "Three"
+  },
+  {
+    "kanji": "四つ",
+    "katakana": "よっつ",
+    "romaji": "yottsu",
+    "translate": "Four"
+  },
+  {
+    "kanji": "バスのりば",
+    "katakana": "バスのりば",
+    "romaji": "basunoriba",
+    "translate": "Bus stop"
+  },
+  {
+    "kanji": "片道切符",
+    "katakana": "かたみちきっぷ",
+    "romaji": "katamichikippu",
+    "translate": "One-way ticket"
+  },
+  {
+    "kanji": "帰りの切符",
+    "katakana": "かえりのきっぷ",
+    "romaji": "kaerinokippu",
+    "translate": "Return ticket"
+  },
+  {
+    "kanji": "これを注文します",
+    "katakana": "これをちゅうもんします",
+    "romaji": "korewochuumonshimasu",
+    "translate": "I’ll have this one, please."
+  },
+  {
+    "kanji": "予約をしています",
+    "katakana": "よやくをしています",
+    "romaji": "yoyakuwoshiteimasu",
+    "translate": "I have a reservation."
+  },
+  {
+    "kanji": "このサイズがありますか",
+    "katakana": "このサイズがありますか",
+    "romaji": "konosaizugaarimasuka",
+    "translate": "Do you have this in my size?"
+  },
+  {
+    "kanji": "すみません、見てもいいですか",
+    "katakana": "すみませんみてもいいですか",
+    "romaji": "sumimasenmitemoiidesuka",
+    "translate": "Excuse me, may I have a look at this?"
+  }
+]
